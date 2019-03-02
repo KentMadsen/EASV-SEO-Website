@@ -1,0 +1,27 @@
+header
+{
+      padding: 0px;
+      width: 100%;
+}
+
+.header-menu-text-link
+{
+  margin: 0px;
+  padding: 0px;
+
+  margin-left: 16px;
+  margin-right: 16px;
+}
+
+.header-menu-text-link i
+{
+  margin-left: 4px;
+  margin-right: 8px;
+
+  color: rgba(0, 0, 0, 0);
+}
+
+.header-menu-text-link:hover i
+{
+  color: rgba(0, 0, 0, 255);
+}
