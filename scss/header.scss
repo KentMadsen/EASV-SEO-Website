@@ -4,6 +4,74 @@ header
       width: 100%;
 }
 
+.navigation-header-menu
+{
+      display: flex;
+
+      text-transform: uppercase;
+
+      margin: 0px;
+      padding: 0px;
+
+      padding-top: 36px;
+}
+
+.navigation-header-menu li
+{
+      list-style: none;
+
+      display: block;
+
+      flex-wrap: wrap;
+
+
+      margin: 0px;
+
+      margin-left: 16px;
+      margin-right: 16px;
+
+      padding: 0px;
+}
+
+.navigation-header-menu li:first-child
+{
+      margin-right: 75px;
+}
+
+.navigation-header-menu li:last-child
+{
+      margin-left: auto;
+}
+
+.menu-horizontal-right
+{
+      justify-content: right;
+}
+
+.menu-horizontal-center
+{
+      justify-content: center;
+}
+
+.navigation-header
+{
+      height: 100px;
+      background-color: gray;
+}
+
+.space-header
+{
+      margin-top: 8px;
+      margin-bottom: 8px;
+}
+
+
+.header-menu-link a
+{
+      text-decoration: none;
+      font-family: 'open sans';
+}
+
 .header-menu-text-link
 {
   margin: 0px;
