@@ -21,7 +21,6 @@
               <section class="document-section">
 
               </section>
-
             </main>
 
             <?php

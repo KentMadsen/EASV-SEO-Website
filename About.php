@@ -8,7 +8,7 @@
                   include_once "./skeleton/css.html";
             ?>
             <title>
-                  Dictionary - SEO
+                  About us - SEO
             </title>
       </head>
       <body>
