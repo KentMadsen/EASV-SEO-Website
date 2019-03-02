@@ -1,3 +1,4 @@
+#SEO Related links
 https://www.hobo-web.co.uk/seo-tutorial/
 https://searchengineland.com/guide/what-is-seo
 https://moz.com/learn/seo/what-is-seo
@@ -14,5 +15,5 @@ https://www.tutorialspoint.com/seo/index.htm
 https://www.searchenginejournal.com/website-optimization-essentials/280641/
 https://www.coursera.org/specializations/seo
 
-sitemap
+# Sitemap
 https://www.xml-sitemaps.com/
