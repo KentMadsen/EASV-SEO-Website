@@ -139,6 +139,31 @@ header
       margin-left: auto;
 }
 
+.page-container
+{
+      margin-bottom: 8px;
+}
+
+#footer-main-area-containment div p
+{
+      color: white;
+      margin: 0px;
+      width: 100%;
+
+      font-family: 'open sans';
+}
+
+.footer-menu-list
+{
+
+}
+
+.footer-menu-list li a
+{
+      font-family: 'open sans';
+      font-size: 12px;
+
+}
 
 .container
 {
@@ -204,9 +229,16 @@ footer
       padding: 0px;
 }
 
+.footer-misc div p 
+{
+      font-family: 'open sans';
+      font-size: 12px;
+}
+
 .footer-misc-copyright p
 {
       margin: 0px;
+      margin-top: 8px;
 }
 
 .footer-main-area
