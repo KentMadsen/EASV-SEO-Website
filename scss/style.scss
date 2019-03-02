@@ -5,7 +5,7 @@ body
       grid-template-rows: auto auto auto;
       grid-template-columns: auto;
 
-      grid-gap: 8px;
+      grid-gap: 32px;
 
       width: 100%;
 
@@ -47,9 +47,28 @@ header
 
       text-transform: uppercase;
       flex-wrap: wrap;
+}
 
-      margin-left: 8px;
-      margin-right: 8px;
+.header-menu-text-link
+{
+  margin: 0px;
+  padding: 0px;
+
+  margin-left: 16px;
+  margin-right: 16px;
+}
+
+.header-menu-text-link i
+{
+  margin-left: 4px;
+  margin-right: 8px;
+
+  color: rgba(0, 0, 0, 0);
+}
+
+.header-menu-text-link:hover i
+{
+  color: rgba(0, 0, 0, 255);
 }
 
 .align-container
@@ -194,7 +213,8 @@ header
 
 .page
 {
-      width: 1090px;
+      width: 1080px;
+
       margin-left: auto;
       margin-right: auto;
 }
@@ -241,6 +261,12 @@ footer
 {
       margin: 0px;
       margin-top: 8px;
+}
+
+.footer-menu-list li
+{
+  margin-right: 8px;
+  margin-left: 8px;
 }
 
 .footer-main-area
