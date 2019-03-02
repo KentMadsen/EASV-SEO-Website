@@ -26,6 +26,7 @@ header
       margin-bottom: 8px;
 }
 
+
 .menu-horizontal
 {
       margin: 0px;
@@ -35,7 +36,7 @@ header
       
       width: 100%;
 
-      justify-content: right;
+      justify-content: center;
 
 }
 
@@ -172,4 +173,35 @@ footer
       width: 100%;
       
 
+}
+
+.link a
+{
+      text-decoration: none;
+      color: black;
+}
+
+.center-text p
+{
+      text-align: center;
+      text-transform: uppercase;
+}
+
+.footer-misc
+{
+      margin-top: 0px;
+      margin-bottom: 0px;
+      padding: 0px;
+}
+
+.footer-misc-copyright p
+{
+      margin: 0px;
+}
+
+.footer-main-area
+{
+      background-color: gray;
+      padding-top: 32px;
+      padding-bottom: 16px;
 }

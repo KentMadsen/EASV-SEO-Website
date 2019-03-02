@@ -1,19 +1,11 @@
 <!DOCTYPE html>
 <html lang="en">
       <head>
-            <meta charset="UTF-8">
-            
-            <meta name="viewport" 
-                  content="width=device-width, initial-scale=1.0">
-
-            <meta http-equiv="X-UA-Compatible" 
-                  content="ie=edge">
-
-            <?php 
+            <?php
+                  include_once "./skeleton/meta.html"; 
                   include_once "./skeleton/fonts.html";
                   include_once "./skeleton/css.html";
             ?>
-
             <title>
                   SEO Main
             </title>
@@ -27,7 +19,7 @@
             <main> 
 
             </main>
-
+            
             <?php 
                   include_once "./skeleton/footer.html";
             ?>
