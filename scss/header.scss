@@ -11,17 +11,26 @@ header
 
   margin-left: 16px;
   margin-right: 16px;
+
+  font-size: 12px;
 }
 
 .header-menu-text-link i
 {
+  -webkit-transition: 0.250s ease; /* Safari */
+  transition: 0.250s ease;
+
   margin-left: 4px;
   margin-right: 8px;
 
   color: rgba(0, 0, 0, 0);
+  font-size: 12px;
 }
 
 .header-menu-text-link:hover i
 {
+  -webkit-transition: 0.250s ease; /* Safari */
+  transition: 0.250s ease;
+
   color: rgba(0, 0, 0, 255);
 }

@@ -21,12 +21,7 @@
               <section class="document-section">
 
               </section>
-              <section class="document-section">
 
-              </section>
-              <section class="document-section">
-
-              </section>
             </main>
 
             <?php
