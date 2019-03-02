@@ -3,28 +3,32 @@
       <head>
             <?php
                   include_once "./skeleton/meta.html";
-                  include_once "./skeleton/libraries.html"; 
+                  include_once "./skeleton/libraries.html";
                   include_once "./skeleton/fonts.html";
                   include_once "./skeleton/css.html";
             ?>
             <title>
-                  SEO Main
+                  Home - SEO
             </title>
-      
       </head>
+
       <body>
-            <?php 
+            <?php
                   include_once "./skeleton/header.html";
             ?>
-            <main> 
+
+            <main>
 
             </main>
-            <?php 
+
+            <?php
                   include_once "./skeleton/footer.html";
             ?>
       </body>
 
-      <?php 
-            include_once "./skeleton/scripts.html";
-      ?>
+      <div class="ignore" hidden>
+        <?php
+              include_once "./skeleton/scripts.html";
+        ?>
+      </div>
 </html>

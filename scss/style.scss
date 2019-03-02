@@ -1,10 +1,10 @@
 body
 {
       display: grid;
-      
+
       grid-template-rows: auto auto auto;
       grid-template-columns: auto;
-      
+
       grid-gap: 8px;
 
       width: 100%;
@@ -17,7 +17,6 @@ header
 {
       padding: 0px;
       width: 100%;
-      
 }
 
 .space-header
@@ -33,7 +32,7 @@ header
       padding: 0px;
 
       display: flex;
-      
+
       width: 100%;
 
       justify-content: center;
@@ -87,7 +86,7 @@ header
 {
       display: grid;
       grid-template-columns: 1fr 1fr 1fr;
-      grid-template-rows: auto; 
+      grid-template-rows: auto;
       grid-gap: 16px;
 }
 
@@ -95,7 +94,7 @@ header
 {
       display: grid;
       grid-template-columns: 1fr 1fr 1fr 1fr;
-      grid-template-rows: auto; 
+      grid-template-rows: auto;
       grid-gap: 16px;
 
       height: 100%;
@@ -105,22 +104,22 @@ header
 .navigation-header-menu
 {
       display: flex;
-      
+
       text-transform: uppercase;
-      
+
       margin: 0px;
       padding: 0px;
 
       padding-top: 36px;
 }
 
-.navigation-header-menu li 
+.navigation-header-menu li
 {
       list-style: none;
       display: block;
       flex-wrap: wrap;
-      
-      
+
+
       margin: 0px;
 
       margin-left: 16px;
@@ -201,12 +200,13 @@ header
 main
 {
       width: 100%;
+      min-height: 600px;
 }
 
 footer
 {
       width: 100%;
-      
+
 
 }
 
@@ -225,11 +225,11 @@ footer
 .footer-misc
 {
       margin-top: 0px;
-      margin-bottom: 0px;
+      margin-bottom: 8px;
       padding: 0px;
 }
 
-.footer-misc div p 
+.footer-misc div p
 {
       font-family: 'open sans';
       font-size: 12px;
@@ -245,19 +245,18 @@ footer
 {
       background-color: gray;
       padding-top: 32px;
-      padding-bottom: 16px;
+      padding-bottom: 32px;
 }
 
 .menu-social-horizontal
 {
       display: flex;
-      
+      justify-content: space-around;
 }
 
 .menu-social-horizontal li
 {
       display: block;
-      justify-content: flex-start;
       margin-right: 8px;
       margin-left: 8px;
 }
@@ -270,4 +269,60 @@ footer
 .menu-social-horizontal li:last-child
 {
       margin-right: 0px;
+}
+
+#footer-site-share
+{
+  margin-top: 16px;
+}
+
+#footer-site-share p
+{
+  font-size: 20px;
+}
+
+#footer-site-share ul
+{
+  margin: 0px;
+  padding: 0px;
+
+  margin-top: 4px;
+}
+
+.footer-site-description-content
+{
+  font-size: 14px;
+}
+
+.footer-site-description-content:first-child
+{
+  font-size: 20px;
+}
+
+.footer-site-description-content:last-child
+{
+
+}
+
+.footer-menu-share-link
+{
+
+}
+
+.footer-menu-share-link a i
+{
+  color: white;
+  font-size: 20px;
+}
+
+.footer-menu-share-link a:hover i
+{
+  color: yellow;
+
+}
+
+.footer-menu-share-link a:active i
+{
+  color: green;
+
 }
