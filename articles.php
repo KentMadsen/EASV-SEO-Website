@@ -8,7 +8,7 @@
                   include_once "./skeleton/css.html";
             ?>
             <title>
-                  Home - SEO
+                  Home - Articles
             </title>
       </head>
 
@@ -18,15 +18,7 @@
             ?>
 
             <main>
-              <section class="document-section">
-
-              </section>
-              <section class="document-section">
-
-              </section>
-              <section class="document-section">
-
-              </section>
+              
             </main>
 
             <?php

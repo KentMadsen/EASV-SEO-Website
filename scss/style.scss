@@ -5,7 +5,7 @@ body
       grid-template-rows: auto auto auto;
       grid-template-columns: auto;
 
-      grid-gap: 8px;
+      grid-gap: 32px;
 
       width: 100%;
 
@@ -47,9 +47,28 @@ header
 
       text-transform: uppercase;
       flex-wrap: wrap;
+}
 
-      margin-left: 8px;
-      margin-right: 8px;
+.header-menu-text-link
+{
+  margin: 0px;
+  padding: 0px;
+
+  margin-left: 16px;
+  margin-right: 16px;
+}
+
+.header-menu-text-link i
+{
+  margin-left: 4px;
+  margin-right: 8px;
+
+  color: rgba(0, 0, 0, 0);
+}
+
+.header-menu-text-link:hover i
+{
+  color: rgba(0, 0, 0, 255);
 }
 
 .align-container
@@ -116,7 +135,9 @@ header
 .navigation-header-menu li
 {
       list-style: none;
+
       display: block;
+
       flex-wrap: wrap;
 
 
@@ -147,7 +168,9 @@ header
 {
       color: white;
       margin: 0px;
-      width: 100%;
+
+      margin-left: 16px;
+      margin-right: 16px;
 
       font-family: 'open sans';
 }
@@ -161,7 +184,61 @@ header
 {
       font-family: 'open sans';
       font-size: 12px;
+}
 
+.footer-menu-list li:hover a
+{
+  color: yellow;
+}
+
+
+.footer-menu-list li:active a
+{
+  color: green;
+}
+
+.footer-site-links-menu
+{
+
+}
+
+.footer-site-links-menu ul
+{
+  list-style: none;
+
+  margin: 0px;
+  padding: 0px;
+}
+
+
+.footer-site-links-menu ul li
+{
+  margin: 0px;
+  padding: 0px;
+
+  margin-top: 4px;
+  margin-bottom: 4px;
+
+  margin-left: 16px;
+}
+
+.footer-site-links-menu ul li a
+{
+  color: white;
+  font-family: "open sans";
+
+  text-decoration: none;
+}
+
+
+.footer-site-links-menu ul li a:hover
+{
+    color: yellow;
+}
+
+.footer-site-links-menu ul li a:active
+{
+  color: green;
 }
 
 .container
@@ -192,7 +269,8 @@ header
 
 .page
 {
-      width: 1090px;
+      width: 1080px;
+
       margin-left: auto;
       margin-right: auto;
 }
@@ -206,6 +284,7 @@ main
 footer
 {
       width: 100%;
+      text-transform: uppercase;
 
 
 }
@@ -241,6 +320,12 @@ footer
       margin-top: 8px;
 }
 
+.footer-menu-list li
+{
+  margin-right: 8px;
+  margin-left: 8px;
+}
+
 .footer-main-area
 {
       background-color: gray;
@@ -257,6 +342,7 @@ footer
 .menu-social-horizontal li
 {
       display: block;
+
       margin-right: 8px;
       margin-left: 8px;
 }
@@ -286,7 +372,8 @@ footer
   margin: 0px;
   padding: 0px;
 
-  margin-top: 4px;
+  margin-top: 8px;
+  margin-bottom: 8px;
 }
 
 .footer-site-description-content
@@ -297,6 +384,8 @@ footer
 .footer-site-description-content:first-child
 {
   font-size: 20px;
+  margin: 0px !important;
+  margin-bottom: 4px !important;
 }
 
 .footer-site-description-content:last-child
@@ -312,7 +401,7 @@ footer
 .footer-menu-share-link a i
 {
   color: white;
-  font-size: 20px;
+  font-size: 24px;
 }
 
 .footer-menu-share-link a:hover i
