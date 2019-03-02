@@ -14,6 +14,7 @@ header
       padding: 0px;
 
       padding-top: 36px;
+      padding-bottom: 36px;
 }
 
 .navigation-header-menu li
@@ -34,8 +35,22 @@ header
 
 .navigation-header-menu li:first-child
 {
-      margin-right: 75px;
+      margin-right: 25px;
 }
+
+.search-menu-link span
+{
+      margin-right: 8px;
+      margin-left: 8px;
+
+      color: rgba(255,255,255, 0.0);
+}
+
+.search-menu-link:hover span
+{
+      color: rgba(255,255,255, 1.0);
+}
+
 
 .navigation-header-menu li:last-child
 {
@@ -54,7 +69,6 @@ header
 
 .navigation-header
 {
-      height: 100px;
       background-color: gray;
 }
 
