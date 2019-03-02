@@ -247,3 +247,27 @@ footer
       padding-top: 32px;
       padding-bottom: 16px;
 }
+
+.menu-social-horizontal
+{
+      display: flex;
+      
+}
+
+.menu-social-horizontal li
+{
+      display: block;
+      justify-content: flex-start;
+      margin-right: 8px;
+      margin-left: 8px;
+}
+
+.menu-social-horizontal li:first-child
+{
+      margin-left: 0px;
+}
+
+.menu-social-horizontal li:last-child
+{
+      margin-right: 0px;
+}
