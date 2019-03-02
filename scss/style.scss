@@ -135,7 +135,9 @@ header
 .navigation-header-menu li
 {
       list-style: none;
+
       display: block;
+
       flex-wrap: wrap;
 
 
@@ -182,7 +184,43 @@ header
 {
       font-family: 'open sans';
       font-size: 12px;
+}
 
+.footer-menu-list li:hover a
+{
+  color: yellow;
+}
+
+
+.footer-menu-list li:active a
+{
+  color: green;
+}
+
+.footer-site-links-menu
+{
+
+}
+
+.footer-site-links-menu ul
+{
+  list-style: none;
+  margin: 0px;
+  padding: 0px;
+}
+
+
+.footer-site-links-menu ul li
+{
+  margin: 0px;
+  padding: 0px;
+}
+
+.footer-site-links-menu ul li a
+{
+  color: white;
+
+  text-decoration: none;
 }
 
 .container
@@ -228,6 +266,7 @@ main
 footer
 {
       width: 100%;
+      text-transform: uppercase;
 
 
 }
