@@ -8,7 +8,7 @@
                   include_once "./skeleton/css.html";
             ?>
             <title>
-                  SEO in practice - SEO
+                  Home - SEO
             </title>
       </head>
 
@@ -18,6 +18,12 @@
             ?>
 
             <main>
+              <section class="document-section">
+
+              </section>
+              <section class="document-section">
+
+              </section>
               <section class="document-section">
 
               </section>
