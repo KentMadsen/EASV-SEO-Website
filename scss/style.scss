@@ -228,8 +228,8 @@ header
   font-family: "open sans";
 
   text-decoration: none;
+  font-size: 12px;
 }
-
 
 .footer-site-links-menu ul li a:hover
 {
@@ -239,6 +239,27 @@ header
 .footer-site-links-menu ul li a:active
 {
   color: green;
+}
+
+#footer-site-more-information
+{
+  list-style: none;
+  margin: 0px;
+  padding: 0px;
+}
+
+#footer-site-more-information li
+{
+  margin-top: 4px;
+  margin-bottom: 4px;
+}
+
+#footer-site-more-information li a
+{
+  color: white;
+  text-decoration: none;
+  font-size: 12px;
+  font-family: "open sans";
 }
 
 .container
