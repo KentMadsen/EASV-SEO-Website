@@ -17,14 +17,12 @@
             ?>
             <main>
               <section class="document-section">
-
               </section>
             </main>
             <?php
                   include_once "./skeleton/footer.html";
             ?>
       </body>
-
       <div class="ignore" hidden>
         <?php
               include_once "./skeleton/scripts.html";

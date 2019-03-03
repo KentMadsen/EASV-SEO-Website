@@ -16,13 +16,10 @@
             <?php
                   include_once "./skeleton/header.html";
             ?>
-
             <main>
               <section class="document-section">
-
               </section>
             </main>
-
             <?php
                   include_once "./skeleton/footer.html";
             ?>

@@ -11,21 +11,17 @@
                   Home - Articles
             </title>
       </head>
-
       <body>
             <?php
                   include_once "./skeleton/header.html";
             ?>
-
             <main>
-              
-            </main>
 
+            </main>
             <?php
                   include_once "./skeleton/footer.html";
             ?>
       </body>
-
       <div class="ignore" hidden>
         <?php
               include_once "./skeleton/scripts.html";
