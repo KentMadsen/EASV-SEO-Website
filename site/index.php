@@ -8,7 +8,7 @@
                   include_once "./skeleton/css.html";
             ?>
             <title>
-                  Dictionary - SEO
+                  Home - SEO
             </title>
       </head>
       <body>
@@ -16,8 +16,18 @@
                   include_once "./skeleton/header.html";
             ?>
             <main>
-              <section class="document-section">
-              </section>
+                  <div class="page"> 
+                        <section class="home-front"> 
+                              <div class=""> 
+
+                              </div>
+
+                        </section>
+
+                        <section> 
+
+                        </section>
+                  </div>
             </main>
             <?php
                   include_once "./skeleton/footer.html";
