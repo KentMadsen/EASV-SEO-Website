@@ -4,33 +4,30 @@
             <?php 
                   include "./generic/meta.php";
             ?>
-            
+
             <title>
-                  SEO - Article
+                  SEO - Articles
             </title>
 
             <?php 
                   include "./generic/libraries.php";
             ?>
       </head>
-      
       <body>
-            <header>
-                  Header Area
+            <?php 
+                  include './generic/header.php';
+            ?>
 
-                  <nav>
-                        Navigation Area
-                  </nav>
-            </header>
-            
             <main>
-                  Main Area
+                  
             </main>
 
-            <footer>
-                  Footer Area
-
-            </footer>
-            
+            <?php 
+                  include './generic/footer.php';
+            ?>
       </body>
+
+      <?php 
+            include './generic/frameworks.php';
+      ?>
 </html>

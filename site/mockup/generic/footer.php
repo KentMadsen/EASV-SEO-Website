@@ -117,6 +117,7 @@
                                                       </li>
                                                 </ul>
                                           </div>
+
                                           <!-- Container-->
                                           <div class="menu-container">
                                                 <div class="company-information">
@@ -128,10 +129,11 @@
                                                             </a> 
                                                       </p>
                                                       <p>
-                                                            Description
-                                                      </p>
-                                                      <p>
-
+                                                            Lavet af 
+                                                            <a href="www.designermadsen.com" 
+                                                               class="link overlay-link"> 
+                                                                  Kent vejrup Madsen 
+                                                            </a>
                                                       </p>
                                                 </div>                                              
                                           </div>
