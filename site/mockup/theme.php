@@ -13,8 +13,9 @@
                   SEO - Themes
             </title>
 
-            <link rel="stylesheet" 
-                  href="./css/style.css">
+            <?php 
+                  include "./generic/libraries.php";
+            ?>
       </head>
       <body>
             <header>
