@@ -3,7 +3,7 @@
                               <div class="page-boundary">
                                     <ul class="horizontal-menu menu-left site-menu">
                                           <li>
-                                                <a href="index.php" 
+                                                <a href="./index.php" 
                                                    hreflang="en" 
                                                    class="link overlay-link-light">
                                                       Home
@@ -11,7 +11,7 @@
                                           </li>
                                           
                                           <li>
-                                                <a href="#" 
+                                                <a href="./about.php" 
                                                    hreflang="en" 
                                                    class="link overlay-link-light">
                                                       About us
@@ -19,7 +19,7 @@
                                           </li>
 
                                           <li>
-                                                <a href="#" 
+                                                <a href="./dictionary.php" 
                                                    hreflang="en" 
                                                    class="link overlay-link-light">
                                                       Dictionary
@@ -35,7 +35,7 @@
                                     <ul class="horizontal-menu menu-even site-menu">
                                           <li>
                                                 <!-- -->
-                                                <a href="index.php" 
+                                                <a href="./index.php" 
                                                    hreflang="en" 
                                                    class="link overlay-link-light">
                                                       Home
@@ -44,7 +44,7 @@
 
                                           <li>
                                                 <!-- -->
-                                                <a href="#" 
+                                                <a href="./whatisseo.php" 
                                                    hreflang="en" 
                                                    class="link overlay-link-light">
                                                       What is SEO ?
@@ -53,7 +53,7 @@
 
                                           <li>
                                                 <!-- -->
-                                                <a href="#" 
+                                                <a href="./seoinpractice.php" 
                                                    hreflang="en" 
                                                    class="link overlay-link-light">
                                                       SEO in practice ?
@@ -62,7 +62,7 @@
                                           
                                           <li>
                                                 <!-- -->
-                                                <a href="#" 
+                                                <a href="./theme.php" 
                                                    hreflang="en" 
                                                    class="link overlay-link-light">
                                                       Themes
@@ -71,7 +71,7 @@
 
                                           <li>
                                                 <!-- Search -->
-                                                <a href="#" 
+                                                <a href="./search.php" 
                                                    hreflang="en" 
                                                    class="link overlay-link-light">
                                                       Search

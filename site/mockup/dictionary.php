@@ -6,7 +6,7 @@
             ?>
 
             <title>
-                  SEO - Theme
+                  SEO - Dictionary
             </title>
 
             <?php 
@@ -19,7 +19,7 @@
             ?>
 
             <main>
-
+                  
             </main>
 
             <?php 
