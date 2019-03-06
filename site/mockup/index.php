@@ -64,7 +64,6 @@
                                                 </div>
                                           </a>
                                     </div>
-                                    
                                     <div class="containers">  
                                           <a class="infobox" 
                                               href="https://moz.com/blog/state-of-searcher-behavior-revealed">
@@ -75,7 +74,7 @@
                                                       <div class="infobox-source-button">  
                                                             <div> 
                                                                   <p>
-                                                                        Source:
+                                                                        Source
                                                                   </p>
                                                             </div>
                                                             <div>
