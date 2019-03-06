@@ -23,7 +23,19 @@
                   <section> 
                         <div class="page-boundary">  
                               <div class="offset-container">      
-                                    <div class="site-cover-front attachable offset-to-header site-cover">       
+                                    <div class="site-cover-front attachable offset-to-header site-cover">   
+                                          <div class="cover-element-container"> 
+                                                <div class="cover-element"> 
+                                                      <h1 class="website-title"> 
+                                                            SEO | Kent vejrup Madsen
+                                                      </h1>
+                                                      <p class="website-description"> 
+                                                            SEO aka. Search Engine Optimisation is a set of techniques used with the intention
+                                                            to improve a sites visibility on the internet. There by gaining attention or sales.
+                                                            It's a tedious process, which require technical and business decisions.  
+                                                      </p>
+                                                </div>
+                                          </div>    
                                     </div>
                               </div>
                         </div>
