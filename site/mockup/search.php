@@ -6,7 +6,7 @@
             ?>
 
             <title>
-                  SEO - Dictionary
+                  SEO - Search
             </title>
 
             <?php 

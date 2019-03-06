@@ -44,7 +44,7 @@
 
                                           <li>
                                                 <!-- -->
-                                                <a href="#" 
+                                                <a href="./whatisseo.php" 
                                                    hreflang="en" 
                                                    class="link overlay-link-light">
                                                       What is SEO ?
@@ -53,7 +53,7 @@
 
                                           <li>
                                                 <!-- -->
-                                                <a href="#" 
+                                                <a href="./seoinpractice.php" 
                                                    hreflang="en" 
                                                    class="link overlay-link-light">
                                                       SEO in practice ?
@@ -71,7 +71,7 @@
 
                                           <li>
                                                 <!-- Search -->
-                                                <a href="#" 
+                                                <a href="./search.php" 
                                                    hreflang="en" 
                                                    class="link overlay-link-light">
                                                       Search
