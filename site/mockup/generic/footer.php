@@ -12,28 +12,28 @@
                                                             </p>
                                                       </li>
                                                       <li>
-                                                            <a href="index.php" 
+                                                            <a href="./index.php" 
                                                                hreflang="en" 
                                                                class="link overlay-link">
                                                                   Home
                                                             </a>
                                                       </li>
                                                       <li>
-                                                            <a href="#" 
+                                                            <a href="./whatisseo.php" 
                                                                hreflang="en" 
                                                                class="link overlay-link">
                                                                   What is SEO ?
                                                             </a>
                                                       </li>
                                                       <li>
-                                                            <a href="#" 
+                                                            <a href="./seoinpractice.php" 
                                                                hreflang="en" 
                                                                class="link overlay-link">
                                                                   SEO in practice
                                                             </a>
                                                       </li>
                                                       <li>
-                                                            <a href="#" 
+                                                            <a href="./theme.php" 
                                                                hreflang="en" 
                                                                class="link overlay-link">
                                                                   Themes
