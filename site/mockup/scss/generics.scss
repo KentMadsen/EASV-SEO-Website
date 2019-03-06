@@ -3,6 +3,20 @@
       background-color: #ECEFF1;
 }
 
+.header-cover
+{
+      background-color: #ECEFF1;
+      
+      padding-top: 32px;
+      padding-bottom: 32px;
+}
+
+.site-menu
+{
+      text-transform: uppercase;
+      font-family: 'raleway';
+}
+
 .vertical-menu
 {
       margin: 0px;
@@ -52,6 +66,17 @@
       justify-content: space-evenly;
 }
 
+.menu-left
+{
+      justify-content: right;
+}
+
+.site-nav
+{
+      margin-top: 8px;
+      margin-bottom: 8px;
+}
+
 .horizontal-menu li 
 {
       list-style: none;
@@ -73,6 +98,22 @@
 {
       color:#8BC34A;
 }
+
+.overlay-link:hover
+{
+      color:#FF5722;
+}
+
+.overlay-link-light
+{
+      color:gray;
+}
+
+.overlay-link-light:hover
+{
+      color:#FF5722;
+}
+
 
 .horizontal-link-menu
 {
