@@ -39,7 +39,7 @@ Dictionary
 <!-- -->
 <a href="./index.php" 
 hreflang="en" 
-class="link overlay-link-light">
+class="link overlay-link">
 Home
 </a>
 </li>
@@ -48,7 +48,7 @@ Home
 <!-- -->
 <a href="./whatisseo.php" 
 hreflang="en" 
-class="link overlay-link-light">
+class="link overlay-link">
 What is SEO ?
 </a> 
 </li>
@@ -57,7 +57,7 @@ What is SEO ?
 <!-- -->
 <a href="./seoinpractice.php" 
 hreflang="en" 
-class="link overlay-link-light">
+class="link overlay-link">
 SEO in practice ?
 </a>
 </li>
@@ -66,7 +66,7 @@ SEO in practice ?
 <!-- -->
 <a href="./theme.php" 
 hreflang="en" 
-class="link overlay-link-light">
+class="link overlay-link">
 Themes
 </a>
 </li>
@@ -75,7 +75,7 @@ Themes
 <!-- Search -->
 <a href="./search.php" 
 hreflang="en" 
-class="link overlay-link-light">
+class="link overlay-link">
 Search
 </a>
 </li>

@@ -19,7 +19,7 @@ body
       margin: 0px;
       padding: 0px;
 
-      background-color: #F5F5F5;
+      background-color: $main-background-color;
 }
 
 header 
@@ -42,7 +42,7 @@ footer
 
 .footer-cover
 {
-      background-color: #ECEFF1;
+      background-color: $main-menu-cover-color;
 }
 
 .footer-misc
@@ -72,7 +72,7 @@ footer
 
 .header-cover
 {
-      background-color: #ECEFF1;
+      background-color: $main-menu-cover-color;
       
       padding-top: 32px;
       padding-bottom: 32px;

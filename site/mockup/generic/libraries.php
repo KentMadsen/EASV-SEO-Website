@@ -3,4 +3,5 @@
 
 
 <link rel="stylesheet" 
-      href="./css/style.css">
+      href="./css/style.css" 
+      type="text/css" >
