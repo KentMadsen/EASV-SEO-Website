@@ -42,7 +42,7 @@
                               <p class="document-title"> 
                                     Areas 
                               </p>
-                              <div class="stacked-3-containers-horizontal document-body"> 
+                              <div class="stacked-3-cards-full document-body"> 
                                     <div class="containers"> 
                                           Test 1
                                     </div>
@@ -58,17 +58,12 @@
                         </div>
                   </section>
 
-                  <!-- Go to -->
-                  <section>
-                        <div class="page-boundary">
-                              Section 2
-                        </div>  
-                  </section>
-
                   <!--  -->
                   <section> 
                         <div class="page-boundary">
-                              Section 3
+                              <p>
+
+                              </p>
                         </div>  
                   </section>
 
