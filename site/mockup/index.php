@@ -43,62 +43,69 @@
                                     Reasons to consider SEO optimising your site. 
                               </p>
                               <div class="stacked-3-cards-full document-body"> 
-                                    <div class="containers">
-                                          <div class="infobox"> 
-                                                <p class="text-center">
-                                                      Google processes over 40.000 search quries every seconds.
-                                                </p>
-                                                <a class="infobox-source-button" 
-                                                   href="http://www.internetlivestats.com/google-search-statistics/">  
-                                                      <div> 
-                                                            <p>
-                                                                  Source
-                                                            </p>
-                                                      </div>
-                                                      <div>
-                                                            <i class="fas fa-external-link-square-alt">
-                                                            </i>
-                                                      </div>
-                                                </a>
-                                          </div>
-                                    </div>
-                                    <div class="containers">  
-                                          <div class="infobox">
-                                                <p class="text-center"> 
-                                                      The average google search session is below a minute.
-                                                </p>
-                                                <a class="infobox-source-button" 
-                                                   href="https://moz.com/blog/state-of-searcher-behavior-revealed">  
-                                                      <div> 
-                                                            <p>
-                                                                  Source
-                                                            </p>
-                                                      </div>
-                                                      <div>
-                                                            <i class="fas fa-external-link-square-alt">
-                                                            </i>
-                                                      </div>
-                                                </a>
-                                          </div>
-                                    </div>
-
                                     <div class="containers"> 
-                                          <div class="infobox">
-                                                <p class="text-center">
-                                                      90% of searches made on desktop uses google.
-                                                </p>
-                                                <a class="infobox-source-button" href="https://www.statista.com/statistics/216573/worldwide-market-share-of-search-engines/"> 
-                                                      <div> 
-                                                            <p>
-                                                                  Source
-                                                            </p>
+                                          <a class="infobox" href="http://www.internetlivestats.com/google-search-statistics/"> 
+                                                <div class="infobox-border"> 
+                                                      <p class="text-center">
+                                                            Google processes over 40.000 search quries every seconds.
+                                                      </p> 
+                                                      <div class="infobox-source-button"> 
+                                                            <div > 
+                                                                  <p>
+                                                                        Source
+                                                                  </p>
+                                                            </div>
+                                                            <div>
+                                                                  <i class="fas fa-chevron-right">
+                                                                  </i>
+                                                            </div>
                                                       </div>
-                                                      <div>
-                                                            <i class="fas fa-external-link-square-alt">
-                                                            </i>
+                                                
+                                                </div>
+                                          </a>
+                                    </div>
+                                    
+                                    <div class="containers">  
+                                          <a class="infobox" 
+                                              href="https://moz.com/blog/state-of-searcher-behavior-revealed">
+                                              <div class="infobox-border"> 
+                                                      <p class="text-center"> 
+                                                            The average google search session is below a minute.
+                                                      </p>
+                                                      <div class="infobox-source-button">  
+                                                            <div> 
+                                                                  <p>
+                                                                        Source:
+                                                                  </p>
+                                                            </div>
+                                                            <div>
+                                                                  <i class="fas fa-chevron-right">
+                                                                  </i>
+                                                            </div>
                                                       </div>
-                                                </a>
-                                          </div>
+                                                </div>
+                                          </a>
+                                    </div>
+                                    <div class="containers"> 
+                                          <a class="infobox" 
+                                             href="https://www.statista.com/statistics/216573/worldwide-market-share-of-search-engines/">
+                                                <div class="infobox-border"> 
+                                                      <p class="text-center">
+                                                            90% of searches made on desktop uses google.
+                                                      </p>
+                                                      <div class="infobox-source-button"> 
+                                                            <div> 
+                                                                  <p>
+                                                                        Source
+                                                                  </p>
+                                                            </div>
+                                                            <div>
+                                                                  <i class="fas fa-chevron-right">
+                                                                  </i>
+                                                            </div>
+                                                      </div>
+                                                </div>
+                                          </a>
                                     </div>
 
                               </div>

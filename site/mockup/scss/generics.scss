@@ -218,20 +218,101 @@ section:last-child
       text-align: center;
 }
 
-.infobox
-{
-      border:1px solid black;
+/* 
       padding-left: 8px;
       padding-right: 8px;
       padding-bottom: 16px;
       padding-top: 16px;
+*/
+
+.infobox
+{
+      padding-top: 16px;
+      text-decoration: none;
+}
+
+.infobox div p
+{
+      padding-right: 16px;
+      padding-left: 16px;
+      margin-bottom: 16px;
+
+}
+
+.infobox div 
+{
+      color: black;
+      background-color: white;
+}
+
+.infobox-border
+{
+      padding-top: 32px;
 }
 
 .infobox-source-button
 {
-      color:green;
+      background-color: white;
+      color:black;
       text-decoration: none;
       width: 100%;
+      
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      grid-gap: 16px;
+}
+
+
+.infobox-source-button div
+{
+      display: flex;
+      padding: 0px;
+      height: 25px;
+
+      padding-left: 16px;
+      padding-right: 16px;
+
+      color:black;
+      background-color: white;
+}
+
+
+.infobox-source-button div p 
+{
+      margin: 0px;
+      padding: 0px;
+      
+      margin-top: auto;
+      margin-bottom: auto;
+
+      color:black;
+
+      width: 100%;
+
+      font-size: 12px;
+      text-align: center;
+
+}
+
+.infobox-source-button div i
+{
+      display: inline-block;
+      width: 100%;
+      text-align: right;
+      margin: 0px;
+      padding: 0px;
+      
+      font-size: 12px;
+
+      margin-top: auto;
+      margin-bottom: auto;
+      
+}
+
+.infobox:hover div .infobox-source-button div:last-child
+{
+      background-color: #2196F3;
+      color:white;
 }
 
 .site-introduction
