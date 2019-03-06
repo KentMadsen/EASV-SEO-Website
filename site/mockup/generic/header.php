@@ -28,11 +28,13 @@
                                     </ul>
                               </div>
                         </nav>
-
+                        
+                        <!-- -->
                         <nav class="header-cover">
                               <div class="page-boundary">
                                     <ul class="horizontal-menu menu-even site-menu">
                                           <li>
+                                                <!-- -->
                                                 <a href="index.php" 
                                                    hreflang="en" 
                                                    class="link overlay-link-light">
@@ -45,7 +47,7 @@
                                                 <a href="#" 
                                                    hreflang="en" 
                                                    class="link overlay-link-light">
-                                                      What is SEO
+                                                      What is SEO ?
                                                 </a> 
                                           </li>
 
@@ -54,7 +56,7 @@
                                                 <a href="#" 
                                                    hreflang="en" 
                                                    class="link overlay-link-light">
-                                                      SEO in practice
+                                                      SEO in practice ?
                                                 </a>
                                           </li>
                                           

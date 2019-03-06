@@ -143,15 +143,51 @@
       color:#FF5722;
 }
 
+.site-cover-front
+{
+      background-image: url('../img/front.jpg');
+      background-position-y: -100px;
+}
+
+.offset-to-header
+{
+      top: -32px;
+}
+
+.offset-to-footer
+{
+      bottom: -32px;
+}
+
+.site-cover-end
+{
+      background-image: url('../img/front2.jpg');
+
+}
+
+section
+{
+      margin-top: 32px;
+      margin-bottom: 32px;
+}
+
+section:first-child
+{
+      margin-top: 0px;
+}
+
+section:last-child
+{
+      margin-bottom: 0px;
+}
+
 .site-cover 
 {
       background-color: #2196F3;
-      background-image: url('../img/front.jpg');
       background-size:cover;
-      background-position-y: -100px;
       width: 100%;
       height: 550px;
-      top: -32px;
+      
 }
 
 .stacked-3-containers-horizontal
@@ -196,11 +232,9 @@
       height: 550px;
 }
 
-.attach-to-header
+.attachable
 {
       position: absolute;
-
-
 }
 
 .horizontal-link-menu

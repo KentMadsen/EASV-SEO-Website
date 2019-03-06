@@ -30,7 +30,7 @@
                   <section> 
                         <div class="page-boundary">  
                               <div class="offset-container">      
-                                    <div class="site-cover attach-to-header">       
+                                    <div class="site-cover-front attachable offset-to-header site-cover">       
                                     </div>
                               </div>
                         </div>
@@ -58,14 +58,14 @@
                         </div>
                   </section>
 
-                  <!-- -->
+                  <!-- Go to -->
                   <section>
                         <div class="page-boundary">
                               Section 2
                         </div>  
                   </section>
 
-                  <!-- -->
+                  <!--  -->
                   <section> 
                         <div class="page-boundary">
                               Section 3
@@ -79,6 +79,16 @@
                         </div>  
                   </section>
 
+                  <!-- -->
+                  <section> 
+                        <div class="page-boundary"> 
+                              <div class="offset-container"> 
+                                    <div class="site-cover attachable site-cover-end offset-to-footer"> 
+
+                                    </div>
+                              </div>
+                        </div>
+                  </section>
                   
             </main>
 
