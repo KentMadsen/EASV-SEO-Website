@@ -45,7 +45,7 @@
                               <div class="stacked-3-cards-full document-body"> 
                                     <div class="containers"> 
                                           <a class="infobox" href="http://www.internetlivestats.com/google-search-statistics/"> 
-                                                <div class="infobox-border"> 
+                                                <div class="infobox-border infobox-server"> 
                                                       <p class="text-center">
                                                             Google processes over 40.000 search quries every seconds.
                                                       </p> 
@@ -67,7 +67,7 @@
                                     <div class="containers">  
                                           <a class="infobox" 
                                               href="https://moz.com/blog/state-of-searcher-behavior-revealed">
-                                              <div class="infobox-border"> 
+                                              <div class="infobox-border infobox-browser"> 
                                                       <p class="text-center"> 
                                                             The average google search session is below a minute.
                                                       </p>
@@ -88,7 +88,7 @@
                                     <div class="containers"> 
                                           <a class="infobox" 
                                              href="https://www.statista.com/statistics/216573/worldwide-market-share-of-search-engines/">
-                                                <div class="infobox-border"> 
+                                                <div class="infobox-border infobox-desktop"> 
                                                       <p class="text-center">
                                                             90% of searches made on desktop uses google.
                                                       </p>

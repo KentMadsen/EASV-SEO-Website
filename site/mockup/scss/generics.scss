@@ -235,14 +235,38 @@ section:last-child
 {
       padding-right: 16px;
       padding-left: 16px;
-      margin-bottom: 16px;
+      margin-bottom: 64px;
 
+}
+
+.infobox-browser
+{
+      background-image: url('../img/42.jpg');
+      background-size: cover;
+      background-repeat: no-repeat;
+      background-blend-mode: overlay;
+}
+
+.infobox-desktop
+{
+      background-image: url('../img/19.jpg');
+      background-size: cover;
+      background-repeat: no-repeat;
+      background-blend-mode: overlay;
+}
+
+.infobox-server
+{
+      background-image: url('../img/21.jpg');
+      background-size: cover;
+      background-repeat: no-repeat;
+      background-blend-mode: overlay;
 }
 
 .infobox div 
 {
-      color: black;
-      background-color: white;
+      background-color: #212121;
+      color: white;
 }
 
 .infobox-border
@@ -252,10 +276,13 @@ section:last-child
 
 .infobox-source-button
 {
-      background-color: white;
+      background-color: white !important;
+      
       color:black;
+      border-top:1px solid #CFD8DC;
       text-decoration: none;
       width: 100%;
+      
       
       display: grid;
       grid-template-columns: 1fr 1fr;
@@ -267,7 +294,7 @@ section:last-child
 {
       display: flex;
       padding: 0px;
-      height: 25px;
+      height: 40px;
 
       padding-left: 16px;
       padding-right: 16px;
@@ -299,6 +326,7 @@ section:last-child
 {
       display: inline-block;
       width: 100%;
+
       text-align: right;
       margin: 0px;
       padding: 0px;
