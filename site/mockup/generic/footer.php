@@ -129,7 +129,7 @@
                                                             </a> 
                                                       </p>
                                                       <p>
-                                                            Lavet af 
+                                                            Created by
                                                             <a href="www.designermadsen.com" 
                                                                class="link overlay-link"> 
                                                                   Kent vejrup Madsen 
