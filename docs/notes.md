@@ -1,3 +1,5 @@
+# Notes
 pulls the state of a branch
 
-git pull origin publish
+cd -> directory
+git pull origin publish 
