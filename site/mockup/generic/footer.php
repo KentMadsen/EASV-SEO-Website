@@ -96,7 +96,7 @@
                                                       </li>
 
                                                       <li>
-                                                            <a  href="#"
+                                                            <a href="#"
                                                                hreflang="en" 
                                                                class="link overlay-link">
                                                                   Sitemap
@@ -110,10 +110,10 @@
                                                             </a>
                                                       </li>
                                                       <li>
-                                                            <a 
+                                                            <a href="./links.php"
                                                                hreflang="en" 
                                                                class="link overlay-link">
-                                                                  
+                                                                  SEO's link relations  
                                                             </a>
                                                       </li>
                                                       <li>
