@@ -1,0 +1,79 @@
+.page-boundary
+{
+      width: 1080px;
+      margin-left: auto;
+      margin-right: auto;
+}
+
+body 
+{
+      display: grid;
+      grid-gap: 32px;
+      
+      grid-template-areas: "header-area"
+                           "main-area"
+                           "footer-area";
+
+      width: 100%;
+
+      margin: 0px;
+      padding: 0px;
+
+      background-color: #F5F5F5;
+}
+
+header 
+{
+      grid-area: header-area;
+
+}
+
+main 
+{
+      grid-area: main-area;
+
+}
+
+footer 
+{
+      grid-area: footer-area;
+
+}
+
+.footer-cover
+{
+      background-color: #ECEFF1;
+}
+
+.footer-misc
+{
+      font-family: "roboto";
+      text-transform: uppercase;
+      
+      font-size: 12px;
+      padding: 0px;
+}
+
+.footer-misc p 
+{
+      text-align: center;
+      margin: 0px;
+
+      margin-top: 4px;
+      margin-bottom: 4px;
+      padding: 0px;
+}
+
+.footer-misc-navigation
+{
+      margin-top: 4px;
+      margin-bottom: 4px;
+}
+
+.header-cover
+{
+      background-color: #ECEFF1;
+      
+      padding-top: 32px;
+      padding-bottom: 32px;
+}

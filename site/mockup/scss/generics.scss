@@ -1,154 +1,16 @@
-.footer-cover
-{
-      background-color: #ECEFF1;
-}
+@import './menu.scss';
+@import './containers.scss';
 
-.footer-misc
-{
-      font-family: "roboto";
-      text-transform: uppercase;
-      
-      font-size: 12px;
-      padding: 0px;
-}
-
-.footer-misc p 
-{
-      text-align: center;
-      margin: 0px;
-
-      margin-top: 4px;
-      margin-bottom: 4px;
-      padding: 0px;
-}
-
-.footer-misc-navigation
-{
-      margin-top: 4px;
-      margin-bottom: 4px;
-}
-
-.header-cover
-{
-      background-color: #ECEFF1;
-      
-      padding-top: 32px;
-      padding-bottom: 32px;
-}
-
-.site-menu
-{
-      text-transform: uppercase;
-      font-family: 'Assistant';
-}
-
-.vertical-menu
-{
-      margin: 0px;
-      padding: 0px;
-
-}
-
-.vertical-menu li 
-{
-      list-style: none;
-      
-      margin: 0px;
-      margin-top: 8px;
-      margin-bottom: 8px;
-      padding: 0px;
-
-}
-
-.vertical-menu li p
-{
-      margin: 0px;
-      padding: 0px;
-      
-}
-
-.vertical-menu li:first-child p:first-child
-{
-      font-weight: bold;
-}
-
-.horizontal-menu
-{
-      display: flex;
-
-      margin: 0px;
-      padding: 0px;
-}
-
-
-.menu-even
-{
-      justify-content: space-evenly;
-}
-
-.menu-left
-{
-      justify-content: right;
-}
-
-.site-nav
-{
-      margin-top: 8px;
-      margin-bottom: 8px;
-      font-size: 12px;
-}
-
-.horizontal-menu li 
-{
-      list-style: none;
-      margin: 0px;
-      
-      margin-left: 16px;
-      margin-right: 16px;
-
-      padding: 0px;
-}
-
-.horizontal-menu li a 
-{
-      text-decoration: none;
-}
-
-.link 
-{
-      text-decoration: none;
-}
-
-.overlay-link
-{
-      color:$inactive-menu-overlay;
-}
-
-.overlay-link:hover
-{
-      color:$highlight-menu;
-}
-
-.overlay-link-light
-{
-      color:$inactive-menu;
-}
-
-.overlay-link-light:hover
-{
-      color:$highlight-menu;
-}
 
 .offset-to-header
 {
-      top: -32px;
+      top: $default-edge-offset;
 }
 
 .offset-to-footer
 {
-      bottom: -32px;
+      bottom: $default-edge-offset;
 }
-
 
 section
 {
@@ -166,21 +28,7 @@ section:last-child
       margin-bottom: 0px;
 }
 
-.site-cover 
-{
-      background-color: $background-site-menu;
-      background-size:cover;
-      width: 100%;
-      height: 550px;
-      
-}
 
-.containers 
-{
-      margin: 0px;
-      padding: 0px;
-      
-}
 
 .document-body
 {
@@ -221,24 +69,4 @@ section:last-child
 .attachable
 {
       position: absolute;
-}
-
-.horizontal-link-menu
-{
-      display: grid;
-      grid-template-columns: 1fr 1fr 1fr 1fr;
-      grid-gap: 32px;
-}
-
-.page-boundary
-{
-      width: 1080px;
-      margin-left: auto;
-      margin-right: auto;
-}
-
-.menu-area-container
-{
-      padding-top: 32px;
-      padding-bottom: 32px;
 }

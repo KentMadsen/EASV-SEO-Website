@@ -1,45 +1,16 @@
+// Base variables
 @import './variables.scss';
 
-body 
-{
-      display: grid;
-      grid-gap: 32px;
-      
-      grid-template-areas: "header-area"
-                           "main-area"
-                           "footer-area";
-
-      width: 100%;
-
-      margin: 0px;
-      padding: 0px;
-
-      background-color: #F5F5F5;
-}
-
-header 
-{
-      grid-area: header-area;
-
-}
-
-main 
-{
-      grid-area: main-area;
-
-}
-
-footer 
-{
-      grid-area: footer-area;
-
-}
-
-
+// Base model & skeleton
 @import './generics.scss';
+@import './page.scss';
 
-@import './frontpage.scss';
-@import './cover.scss';
+// Entities
 @import './infobox.scss';
+@import './cover.scss';
 
+// Page specifics
+@import './frontpage.scss';
+
+//
 @import './rules.scss';

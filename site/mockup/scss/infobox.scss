@@ -80,9 +80,6 @@ $info-card-inactive-color:#F5F5F5;
       transition-duration: $information-box-default-animation-time;
       margin-left: auto;
       
-      border-left:1px solid $info-card-active-color;
-      border-bottom:1px solid $info-card-active-color;
-      border-right:1px solid $info-card-active-color;
       
 
       height: 100%;
@@ -141,16 +138,12 @@ $info-card-inactive-color:#F5F5F5;
 {
       background-color: $info-card-active-color;
       transition-duration: $information-box-default-animation-time;
-
-      border: 0px;
 }
 
 .info-card-area:active .info-card .infocard-source-button .infocard-sb-container:last-child .infocard-expandeble-container
 {
       transition-duration: $information-box-default-animation-time;
       background-color: $info-card-active-color;
-
-      border: 0px;
 
       width: 100%;     
 }
