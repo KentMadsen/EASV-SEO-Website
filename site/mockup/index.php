@@ -37,20 +37,25 @@
                               </p>
                               <div class="stacked-3-cards-full document-body"> 
                                     <div class="containers"> 
-                                          <a class="infobox" href="http://www.internetlivestats.com/google-search-statistics/"> 
-                                                <div class="infobox-server infobox-border"> 
-                                                      <p class="text-center">
+                                          <a class="info-card-area" 
+                                             href="http://www.internetlivestats.com/google-search-statistics/">
+                                                <div class="info-card infobox-server infobox-border"> 
+                                                      <p class="info-card-text">
                                                             Google processes over 40.000 search quries every seconds.
                                                       </p> 
-                                                      <div class="infobox-source-button"> 
-                                                            <div > 
+                                                      <div class="infocard-source-button"> 
+                                                            <div class="infocard-sb-container"> 
                                                                   <p>
                                                                         Source
                                                                   </p>
                                                             </div>
-                                                            <div>
-                                                                  <i class="fas fa-chevron-right">
-                                                                  </i>
+                                                            <div class="infocard-sb-container">
+                                                                  <div class="infocard-expandeble-container">
+                                                                        <div class="infobox-icon-continue">   
+                                                                              <i class="fas fa-chevron-right">
+                                                                              </i>
+                                                                        </div>
+                                                                  </div>
                                                             </div>
                                                       </div>
                                                 
@@ -58,42 +63,51 @@
                                           </a>
                                     </div>
                                     <div class="containers">  
-                                          <a class="infobox" 
-                                              href="https://moz.com/blog/state-of-searcher-behavior-revealed">
-                                              <div class="infobox-browser infobox-border"> 
-                                                      <p class="text-center"> 
+                                          <a class="info-card-area" 
+                                             href="https://moz.com/blog/state-of-searcher-behavior-revealed">
+                                              <div class="info-card infobox-browser infobox-border"> 
+                                                      <p class="info-card-text"> 
                                                             The average google search session is below a minute.
                                                       </p>
-                                                      <div class="infobox-source-button">  
-                                                            <div> 
+                                                      <div class="infocard-source-button">  
+                                                            <div class="infocard-sb-container"> 
                                                                   <p>
                                                                         Source
                                                                   </p>
                                                             </div>
-                                                            <div>
-                                                                  <i class="fas fa-chevron-right">
-                                                                  </i>
+                                                            <div class="infocard-sb-container">
+                                                                  <div class="infocard-expandeble-container">
+                                                                        <div class="infobox-icon-continue">   
+                                                                              <i class="fas fa-chevron-right">
+                                                                              </i>
+                                                                        </div>
+                                                                  </div>
                                                             </div>
                                                       </div>
                                                 </div>
                                           </a>
                                     </div>
+
                                     <div class="containers"> 
-                                          <a class="infobox" 
+                                          <a class="info-card-area" 
                                              href="https://www.statista.com/statistics/216573/worldwide-market-share-of-search-engines/">
-                                                <div class="infobox-desktop infobox-border"> 
-                                                      <p class="text-center">
+                                                <div class="info-card infobox-desktop infobox-border"> 
+                                                      <p class="info-card-text">
                                                             90% of searches made on desktop uses google.
                                                       </p>
-                                                      <div class="infobox-source-button"> 
-                                                            <div> 
+                                                      <div class="infocard-source-button"> 
+                                                            <div class="infocard-sb-container"> 
                                                                   <p>
                                                                         Source
                                                                   </p>
                                                             </div>
-                                                            <div>
-                                                                  <i class="fas fa-chevron-right">
-                                                                  </i>
+                                                            <div class="infocard-sb-container">
+                                                                  <div class="infocard-expandeble-container">
+                                                                        <div class="infobox-icon-continue">   
+                                                                              <i class="fas fa-chevron-right">
+                                                                              </i>
+                                                                        </div>
+                                                                  </div>
                                                             </div>
                                                       </div>
                                                 </div>

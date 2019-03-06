@@ -130,7 +130,7 @@
                                                       </p>
                                                       <p>
                                                             Created by
-                                                            <a href="www.designermadsen.com" 
+                                                            <a href="https://www.designermadsen.com/" 
                                                                class="link overlay-link"> 
                                                                   Kent vejrup Madsen 
                                                             </a>
