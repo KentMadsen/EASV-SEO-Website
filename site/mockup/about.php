@@ -1,39 +1,33 @@
 <!DOCTYPE html>
 <html lang="en">
       <head>
-            <meta charset="UTF-8">
-            
-            <meta name="viewport" 
-                  content="width=device-width, initial-scale=1.0">
-
-            <meta http-equiv="X-UA-Compatible" 
-                  content="ie=edge">
+            <?php 
+                  include "./generic/meta.php";
+            ?>
 
             <title>
                   SEO - About
             </title>
 
-            <link rel="stylesheet" 
-                  href="./css/style.css">
+            <?php 
+                  include "./generic/libraries.php";
+            ?>
       </head>
-      
       <body>
-            <header>
-                  Header Area
+            <?php 
+                  include './generic/header.php';
+            ?>
 
-                  <nav>
-                        Navigation Area
-                  </nav>
-            </header>
-            
             <main>
-                  Main Area
+                  
             </main>
 
-            <footer>
-                  Footer Area
-
-            </footer>
-            
+            <?php 
+                  include './generic/footer.php';
+            ?>
       </body>
+
+      <?php 
+            include './generic/frameworks.php';
+      ?>
 </html>

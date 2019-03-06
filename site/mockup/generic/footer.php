@@ -12,28 +12,28 @@
                                                             </p>
                                                       </li>
                                                       <li>
-                                                            <a href="index.php" 
+                                                            <a href="./index.php" 
                                                                hreflang="en" 
                                                                class="link overlay-link">
                                                                   Home
                                                             </a>
                                                       </li>
                                                       <li>
-                                                            <a href="#" 
+                                                            <a href="./whatisseo.php" 
                                                                hreflang="en" 
                                                                class="link overlay-link">
                                                                   What is SEO ?
                                                             </a>
                                                       </li>
                                                       <li>
-                                                            <a href="#" 
+                                                            <a href="./seoinpractice.php" 
                                                                hreflang="en" 
                                                                class="link overlay-link">
                                                                   SEO in practice
                                                             </a>
                                                       </li>
                                                       <li>
-                                                            <a href="#" 
+                                                            <a href="./theme.php" 
                                                                hreflang="en" 
                                                                class="link overlay-link">
                                                                   Themes
@@ -41,44 +41,7 @@
                                                       </li>
                                                 </ul>
                                           </div>
-                                          <!-- Container-->
-                                          <div class="menu-container">
-                                                <ul class="vertical-menu">
-                                                      <li>
-                                                            <p>
-                                                                  Related
-                                                            </p>
-                                                      </li>
-                                                      <li>
-                                                            <a href="#" 
-                                                               hreflang="en" 
-                                                               class="link overlay-link">
-                                                                  Example
-                                                            </a>
-                                                      </li>
-                                                      <li>
-                                                            <a href="#" 
-                                                               hreflang="en" 
-                                                               class="link overlay-link">
-                                                                  Example
-                                                            </a>
-                                                      </li>
-                                                      <li>
-                                                            <a href="#" 
-                                                               hreflang="en" 
-                                                               class="link overlay-link">
-                                                                  Example
-                                                            </a>
-                                                      </li>
-                                                      <li>
-                                                            <a href="#" 
-                                                               hreflang="en" 
-                                                               class="link overlay-link">
-                                                                  Example
-                                                            </a>
-                                                      </li>
-                                                </ul>
-                                          </div>
+                                          
                                           <!-- Container-->
                                           <div class="menu-container">
                                                 <ul class="vertical-menu">
@@ -87,51 +50,99 @@
                                                                   Help
                                                             </p>
                                                       </li>
+                                                      
                                                       <li>
                                                             <a href="#" 
                                                                hreflang="en" 
                                                                class="link overlay-link">
-                                                                  Example
+                                                                  Getting Started
                                                             </a>
                                                       </li>
+                                                      
                                                       <li>
                                                             <a href="#" 
                                                                hreflang="en" 
                                                                class="link overlay-link">
-                                                                  Example
+                                                                  References/Citations  
                                                             </a>
                                                       </li>
+                                                      
                                                       <li>
                                                             <a href="#" 
                                                                hreflang="en" 
                                                                class="link overlay-link">
-                                                                  Example
+                                                                  Code
                                                             </a>
                                                       </li>
+
                                                       <li>
                                                             <a href="#" 
                                                                hreflang="en" 
                                                                class="link overlay-link">
-                                                                  Example
+                                                                  Dictionary
                                                             </a>
                                                       </li>
                                                 </ul>
                                           </div>
+
+                                          <!-- Container-->
+                                          <div class="menu-container">
+                                                <ul class="vertical-menu">
+                                                      <!-- Not sure about domain !-->
+                                                      <li>
+                                                            <p>
+                                                               Misc   
+                                                            </p>
+                                                      </li>
+
+                                                      <li>
+                                                            <a  href="#"
+                                                               hreflang="en" 
+                                                               class="link overlay-link">
+                                                                  Sitemap
+                                                            </a>
+                                                      </li>
+                                                      <li>
+                                                            <a href="#"
+                                                               hreflang="en" 
+                                                               class="link overlay-link">
+                                                                  Tools & Services
+                                                            </a>
+                                                      </li>
+                                                      <li>
+                                                            <a 
+                                                               hreflang="en" 
+                                                               class="link overlay-link">
+                                                                  
+                                                            </a>
+                                                      </li>
+                                                      <li>
+                                                            <a 
+                                                               hreflang="en" 
+                                                               class="link overlay-link">
+                                                                  
+                                                            </a>
+                                                      </li>
+                                                </ul>
+                                          </div>
+
                                           <!-- Container-->
                                           <div class="menu-container">
                                                 <div class="company-information">
                                                       <p> 
-                                                            <a href="#" 
+                                                            <a href="./index.php" 
                                                                hreflang="en" 
                                                                class="link overlay-link">
                                                                   SEO
                                                             </a> 
                                                       </p>
-                                                      <p>
-                                                            Description
-                                                      </p>
-                                                      <p>
 
+                                                      <p>
+                                                            Created by
+                                                            <a href="https://www.designermadsen.com/" 
+                                                               class="link overlay-link"> 
+                                                                  Kent vejrup Madsen 
+                                                            </a>
                                                       </p>
                                                 </div>                                              
                                           </div>
