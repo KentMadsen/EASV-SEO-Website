@@ -5,12 +5,20 @@ $info-card-active-color:#2196F3;
 $info-card-blend-inactive-color:#455A64;
 $info-card-blend-active-color:gray;
 
-$info-card-inactive-color:white;
+// Background color
+$info-card-inactive-color:#F5F5F5;
+
+.stacked-3-cards-full
+{
+      display: grid;
+      grid-template-columns: 1fr 1fr 1fr;
+      grid-gap: 16px;
+}
 
 .info-card-area
 {
       text-decoration: none;
-      color: white;
+      color: $info-card-inactive-color;
 
       width: 100%;
 
@@ -48,7 +56,7 @@ $info-card-inactive-color:white;
       height: 48px;
       width: 100%;
 
-      background-color: white;
+      background-color: $info-card-inactive-color;
 
       bottom:0px;
 
@@ -62,6 +70,7 @@ $info-card-inactive-color:white;
 .infocard-sb-container
 {
       display: block;
+
       padding-left: 16px;
       padding-right: 16px;
 }
@@ -70,10 +79,17 @@ $info-card-inactive-color:white;
 {
       transition-duration: $information-box-default-animation-time;
       margin-left: auto;
+      
+      border-left:1px solid $info-card-active-color;
+      border-bottom:1px solid $info-card-active-color;
+      border-right:1px solid $info-card-active-color;
+      
 
       height: 100%;
       width: 48px;
 }
+
+
 
 .infobox-icon-continue
 {
@@ -88,12 +104,17 @@ $info-card-inactive-color:white;
 {
       transition-duration: $information-box-default-animation-time;
       color:$info-card-active-color;
+      
       display: inline-block;
+      
       text-align: center;
+
       font-size: 16px;
 
       margin-top: 16px;
       margin-bottom: 16px;
+
+      font-weight: 600;
 }   
 
 // Rules
@@ -120,6 +141,18 @@ $info-card-inactive-color:white;
 {
       background-color: $info-card-active-color;
       transition-duration: $information-box-default-animation-time;
+
+      border: 0px;
+}
+
+.info-card-area:active .info-card .infocard-source-button .infocard-sb-container:last-child .infocard-expandeble-container
+{
+      transition-duration: $information-box-default-animation-time;
+      background-color: $info-card-active-color;
+
+      border: 0px;
+
+      width: 100%;     
 }
 
 .info-card-area:hover .info-card .infocard-source-button .infocard-sb-container:last-child .infocard-expandeble-container i
@@ -141,14 +174,6 @@ $info-card-inactive-color:white;
       transition-duration: $information-box-default-animation-time;
 }
 
-.info-card-area:active .info-card .infocard-source-button .infocard-sb-container:last-child .infocard-expandeble-container
-{
-      transition-duration: $information-box-default-animation-time;
-      background-color: $info-card-active-color;
-      width: 100%;     
-}
-
-
 // Contents Used, ie. images as cover
 .infobox-browser
 {
@@ -162,6 +187,7 @@ $info-card-inactive-color:white;
 .infobox-desktop
 {
       background-image: url('../img/19.jpg');
+
       background-size: cover;
       background-repeat: no-repeat;
       background-blend-mode: overlay;
@@ -170,6 +196,7 @@ $info-card-inactive-color:white;
 .infobox-server
 {
       background-image: url('../img/21.jpg');
+
       background-size: cover;
       background-repeat: no-repeat;
       background-blend-mode: overlay; 

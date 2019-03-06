@@ -102,8 +102,10 @@
 {
       list-style: none;
       margin: 0px;
+      
       margin-left: 16px;
       margin-right: 16px;
+
       padding: 0px;
 }
 
@@ -119,22 +121,22 @@
 
 .overlay-link
 {
-      color:#8BC34A;
+      color:$inactive-menu-overlay;
 }
 
 .overlay-link:hover
 {
-      color:$highlight-menu-infobox;
+      color:$highlight-menu;
 }
 
 .overlay-link-light
 {
-      color:gray;
+      color:$inactive-menu;
 }
 
 .overlay-link-light:hover
 {
-      color:$highlight-menu-infobox;
+      color:$highlight-menu;
 }
 
 .offset-to-header
@@ -171,13 +173,6 @@ section:last-child
       width: 100%;
       height: 550px;
       
-}
-
-.stacked-3-cards-full
-{
-      display: grid;
-      grid-template-columns: 1fr 1fr 1fr;
-      grid-gap: 8px;
 }
 
 .containers 
