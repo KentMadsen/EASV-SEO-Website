@@ -11,7 +11,7 @@
                                           </li>
                                           
                                           <li>
-                                                <a href="#" 
+                                                <a href="about.php" 
                                                    hreflang="en" 
                                                    class="link overlay-link-light">
                                                       About us
@@ -62,7 +62,7 @@
                                           
                                           <li>
                                                 <!-- -->
-                                                <a href="#" 
+                                                <a href="theme.php" 
                                                    hreflang="en" 
                                                    class="link overlay-link-light">
                                                       Themes
