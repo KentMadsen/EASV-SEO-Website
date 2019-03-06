@@ -19,7 +19,7 @@
             ?>
 
             <main>
-                  <!-- -->
+                  <!-- Welcome to the site -->
                   <section> 
                         <div class="page-boundary">  
                               <div class="offset-container">      
@@ -29,12 +29,13 @@
                         </div>
                   </section>
 
-                  <!-- -->
+                  <!-- Reason to use the techniques -->
                   <section> 
                         <div class="page-boundary site-introduction"> 
                               <p class="document-title text-center"> 
                                     Reasons to consider SEO optimising your site. 
                               </p>
+
                               <div class="stacked-3-cards-full document-body"> 
                                     <div class="containers"> 
                                           <a class="info-card-area" 
