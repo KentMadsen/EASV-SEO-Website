@@ -33,53 +33,53 @@
                               
       <!-- -->
       <nav class="header-cover">
-      <div class="page-boundary">
-      <ul class="horizontal-menu menu-even site-menu">
-      <li>
-      <!-- -->
-      <a href="./index.php" 
-      hreflang="en" 
-      class="link overlay-link">
-      Home
-      </a>
-      </li>
+            <div class="page-boundary">
+                  <ul class="horizontal-menu menu-even site-menu">
+                        <li>
+                              <!-- -->
+                              <a href="./index.php" 
+                                 hreflang="en" 
+                                 class="link overlay-link">
+                              Home
+                              </a>
+                        </li>
 
-      <li>
-      <!-- -->
-      <a href="./whatisseo.php" 
-      hreflang="en" 
-      class="link overlay-link">
-      What is SEO ?
-      </a> 
-      </li>
+                        <li>
+                              <!-- -->
+                              <a href="./whatisseo.php" 
+                                 hreflang="en" 
+                                 class="link overlay-link">
+                                    What is SEO ?
+                              </a> 
+                        </li>
 
-      <li>
-      <!-- -->
-      <a href="./seoinpractice.php" 
-      hreflang="en" 
-      class="link overlay-link">
-      SEO in practice ?
-      </a>
-      </li>
-                                                
-      <li>
-      <!-- -->
-      <a href="./theme.php" 
-      hreflang="en" 
-      class="link overlay-link">
-      Themes
-      </a>
-      </li>
+                        <li>
+                              <!-- -->
+                              <a href="./seoinpractice.php" 
+                                 hreflang="en" 
+                                 class="link overlay-link">
+                                    SEO in practice ?
+                              </a>
+                        </li>
+                                                                  
+                        <li>
+                              <!-- -->
+                              <a href="./theme.php" 
+                                 hreflang="en" 
+                                 class="link overlay-link">
+                                    Themes
+                              </a>
+                        </li>
 
-      <li>
-      <!-- Search -->
-      <a href="./search.php" 
-      hreflang="en" 
-      class="link overlay-link">
-      Search
-      </a>
-      </li>
-      </ul>
-      </div>
+                        <li>
+                        <!-- Search -->
+                              <a href="./search.php" 
+                                 hreflang="en" 
+                                 class="link overlay-link">
+                                    Search
+                              </a>
+                        </li>
+                  </ul>
+            </div>
       </nav>
 </header>
