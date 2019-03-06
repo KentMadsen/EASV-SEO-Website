@@ -39,21 +39,68 @@
                   <!-- -->
                   <section> 
                         <div class="page-boundary site-introduction"> 
-                              <p class="document-title"> 
-                                    Areas 
+                              <p class="document-title text-center"> 
+                                    Reasons to consider SEO optimising your site. 
                               </p>
                               <div class="stacked-3-cards-full document-body"> 
-                                    <div class="containers"> 
-                                          Test 1
+                                    <div class="containers">
+                                          <div class="infobox"> 
+                                                <p class="text-center">
+                                                      Google processes over 40.000 search quries every seconds.
+                                                </p>
+                                                <a class="infobox-source-button" 
+                                                   href="http://www.internetlivestats.com/google-search-statistics/">  
+                                                      <div> 
+                                                            <p>
+                                                                  Source
+                                                            </p>
+                                                      </div>
+                                                      <div>
+                                                            <i class="fas fa-external-link-square-alt">
+                                                            </i>
+                                                      </div>
+                                                </a>
+                                          </div>
                                     </div>
-                                    
                                     <div class="containers">  
-                                          Test 2
+                                          <div class="infobox">
+                                                <p class="text-center"> 
+                                                      The average google search session is below a minute.
+                                                </p>
+                                                <a class="infobox-source-button" 
+                                                   href="https://moz.com/blog/state-of-searcher-behavior-revealed">  
+                                                      <div> 
+                                                            <p>
+                                                                  Source
+                                                            </p>
+                                                      </div>
+                                                      <div>
+                                                            <i class="fas fa-external-link-square-alt">
+                                                            </i>
+                                                      </div>
+                                                </a>
+                                          </div>
                                     </div>
 
                                     <div class="containers"> 
-                                          Test 3
+                                          <div class="infobox">
+                                                <p class="text-center">
+                                                      90% of searches made on desktop uses google.
+                                                </p>
+                                                <a class="infobox-source-button" href="https://www.statista.com/statistics/216573/worldwide-market-share-of-search-engines/"> 
+                                                      <div> 
+                                                            <p>
+                                                                  Source
+                                                            </p>
+                                                      </div>
+                                                      <div>
+                                                            <i class="fas fa-external-link-square-alt">
+                                                            </i>
+                                                      </div>
+                                                </a>
+                                          </div>
                                     </div>
+
                               </div>
                         </div>
                   </section>

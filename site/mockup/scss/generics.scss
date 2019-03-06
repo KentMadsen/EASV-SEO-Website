@@ -190,7 +190,7 @@ section:last-child
       
 }
 
-.stacked-3-containers-horizontal
+.stacked-3-cards-full
 {
       display: grid;
       grid-template-columns: 1fr 1fr 1fr;
@@ -213,6 +213,26 @@ section:last-child
       font-size: 28px;
 }
 
+.text-center 
+{
+      text-align: center;
+}
+
+.infobox
+{
+      border:1px solid black;
+      padding-left: 8px;
+      padding-right: 8px;
+      padding-bottom: 16px;
+      padding-top: 16px;
+}
+
+.infobox-source-button
+{
+      color:green;
+      text-decoration: none;
+      width: 100%;
+}
 
 .site-introduction
 {
