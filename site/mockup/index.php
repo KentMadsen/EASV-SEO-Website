@@ -29,7 +29,16 @@
                         </div>
                   </section>
 
-                  <!-- Reason to use the techniques -->
+                  <!-- Short introduction -->
+                  <section> 
+                        <div class="page-boundary">
+                              <p>
+                                    Section 3
+                              </p>
+                        </div>  
+                  </section>
+
+                  <!-- Reason to use the optimisation techniques -->
                   <section> 
                         <div class="page-boundary site-introduction"> 
                               <p class="document-title text-center"> 
@@ -119,19 +128,10 @@
                         </div>
                   </section>
 
-                  <!--  -->
+                  <!-- Themes -->
                   <section> 
                         <div class="page-boundary">
-                              <p>
-
-                              </p>
-                        </div>  
-                  </section>
-
-                  <!-- -->
-                  <section> 
-                        <div class="page-boundary">
-                              Section 4
+                                    Section 4
                         </div>  
                   </section>
 
