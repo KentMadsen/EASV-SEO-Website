@@ -5,18 +5,18 @@
                   SEO - Theme
             </title>
 
-            <?php include "./generic/libraries.php"; ?>
+            <?php include "./generic/libraries.html"; ?>
       </head>
       <body>
-            <?php include './generic/header.php'; ?>
+            <?php include './generic/header.html'; ?>
 
             <main>
 
             </main>
 
-            <?php include './generic/footer.php'; ?>
+            <?php include './generic/footer.html'; ?>
       </body>
-      <?php include './generic/frameworks.php';
+      <?php include './generic/frameworks.html';
             include './generic/code.html';
       ?>
 </html>

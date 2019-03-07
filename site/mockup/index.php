@@ -18,17 +18,14 @@
                         <div class="page-boundary">
                               <div class="offset-container">
                                     <div class="site-cover-front attachable offset-to-header site-cover">
+                                      <!--
                                           <div class="cover-element-container">
                                                 <div class="cover-element">
                                                       <div>
-                                                          <p class="website-description">
-                                                                SEO ( aka. Search Engine Optimisation ) is a set of techniques used with the intention
-                                                                to improve a sites visibility on the internet. By making data accessible for search engines to parse and make available.
-                                                                There by gaining attention or sales, It's a tedious process, which require technical and business decisions.
-                                                          </p>
                                                       </div>
                                                 </div>
                                           </div>
+                                        -->
                                     </div>
                               </div>
                         </div>
@@ -36,7 +33,12 @@
                         <h1>
                           SEO
                         </h1>
-                  </section>
+
+                        <p class="website-description">
+                            SEO ( aka. Search Engine Optimisation ) is a set of techniques used with the intention to improve a sites visibility on the internet. By making data accessible for search engines to parse and make available. There by gaining attention or sales, It's a tedious process, which require technical and business decisions.
+                        </p>
+
+                </section>
 
                   <!-- Short introduction -->
                   <section>
@@ -51,7 +53,7 @@
                   <section>
                         <div class="page-boundary site-introduction">
                               <p class="document-title text-center">
-                                    Reasons to consider SEO optimising your site.
+                                Reasons to consider SEO optimising your site.
                               </p>
 
                               <p>
