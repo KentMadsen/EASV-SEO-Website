@@ -5,9 +5,7 @@
                   SEO - Home
             </title>
 
-            <?php
-                  include "./generic/libraries.html";
-            ?>
+            <?php include "./generic/libraries.html"; ?>
       </head>
 
       <body>
