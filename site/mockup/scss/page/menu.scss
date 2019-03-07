@@ -1,0 +1,38 @@
+.link
+{
+      text-decoration: none;
+}
+
+.site-menu
+{
+      text-transform: uppercase;
+      font-family: 'Assistant';
+}
+
+.site-nav
+{
+      margin-top: 8px;
+      margin-bottom: 8px;
+      
+      font-size: 12px;
+}
+
+.overlay-link
+{
+      color:$inactive-menu-overlay;
+}
+
+.overlay-link:hover
+{
+      color:$highlight-menu;
+}
+
+.overlay-link-light
+{
+      color:$inactive-menu;
+}
+
+.overlay-link-light:hover
+{
+      color: $highlight-menu;
+}

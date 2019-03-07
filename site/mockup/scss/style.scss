@@ -6,11 +6,11 @@
 @import './page.scss';
 
 // Entities
-@import './infobox.scss';
+@import './entities/infobox.scss';
 @import './cover.scss';
 
 // Page specifics
-@import './frontpage.scss';
+@import './page/frontpage.scss';
 
 //
 @import './rules.scss';

@@ -1,5 +1,4 @@
-@import './menu.scss';
-@import './containers.scss';
+@import './generics/containers.scss';
 
 
 .offset-to-header
@@ -43,7 +42,7 @@ section:last-child
       margin-bottom: 24px;
 }
 
-.text-center 
+.text-center
 {
       text-align: center;
 }
@@ -53,7 +52,7 @@ section:last-child
 
 }
 
-.site-introduction p 
+.site-introduction p
 {
       margin-top: 8px;
       margin-bottom: 8px;
