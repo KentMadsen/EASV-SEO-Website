@@ -30,13 +30,18 @@
                               </div>
                         </div>
 
-                        <h1>
-                          SEO
-                        </h1>
+                        <!-- -->
+                        <div class="page-boundary">
+                          <!-- -->
+                          <h1>
+                            SEO
+                          </h1>
 
-                        <p class="website-description">
-                            SEO ( aka. Search Engine Optimisation ) is a set of techniques used with the intention to improve a sites visibility on the internet. By making data accessible for search engines to parse and make available. There by gaining attention or sales, It's a tedious process, which require technical and business decisions.
-                        </p>
+                          <!-- -->
+                          <p class="website-description">
+                              SEO ( aka. Search Engine Optimisation ) is a set of techniques used with the intention to improve a sites visibility on the internet. By making data accessible for search engines to parse and make available. There by gaining attention or sales, It's a tedious process, which require technical and business decisions.
+                          </p>
+                        </div>
 
                 </section>
 
@@ -50,8 +55,8 @@
                   </section>
 
                   <!-- Reason to use the optimisation techniques -->
-                  <section>
-                        <div class="page-boundary site-introduction">
+                  <section class="site-introduction">
+                        <div class="page-boundary">
                               <p class="document-title text-center">
                                 Reasons to consider SEO optimising your site.
                               </p>
@@ -61,6 +66,7 @@
                               </p>
 
                               <div class="stacked-3-cards-full document-body">
+                                <!-- -->
                                     <div class="containers">
                                           <a class="info-card-area"
                                              href="http://www.internetlivestats.com/google-search-statistics/">
@@ -87,6 +93,8 @@
                                                 </div>
                                           </a>
                                     </div>
+
+                                    <!-- -->
                                     <div class="containers">
                                           <a class="info-card-area"
                                              href="https://moz.com/blog/state-of-searcher-behavior-revealed">
@@ -113,6 +121,7 @@
                                           </a>
                                     </div>
 
+                                    <!-- -->
                                     <div class="containers">
                                           <a class="info-card-area"
                                              href="https://www.statista.com/statistics/216573/worldwide-market-share-of-search-engines/">
@@ -138,16 +147,18 @@
                                                 </div>
                                           </a>
                                     </div>
-
                               </div>
-                        </div>
-                        <div>
-                          <!-- Read more -->
-                          <a href="#" hreflang="en">
-                            <div>
-                              Read more:
-                            </div>
-                          </a>
+
+                              <div>
+                                <!-- Read more -->
+                                <a href="#"
+                                   hreflang="en"
+                                   title="Read more about: ">
+                                  <div>
+                                    Read more:
+                                  </div>
+                                </a>
+                              </div>
                         </div>
                   </section>
 
