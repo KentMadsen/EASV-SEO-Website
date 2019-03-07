@@ -1,9 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
       <head>
-            <?php
-                  include "./generic/meta.php";
-            ?>
 
             <title>
                   SEO - Home

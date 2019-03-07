@@ -1,33 +1,31 @@
 <!DOCTYPE html>
 <html lang="en">
       <head>
-            <?php 
-                  include "./generic/meta.php";
-            ?>
 
             <title>
                   SEO - Articles
             </title>
 
-            <?php 
+            <?php
                   include "./generic/libraries.php";
             ?>
       </head>
+      
       <body>
-            <?php 
+            <?php
                   include './generic/header.php';
             ?>
 
             <main>
-                  
+
             </main>
 
-            <?php 
+            <?php
                   include './generic/footer.php';
             ?>
       </body>
 
-      <?php 
+      <?php
             include './generic/frameworks.php';
       ?>
 </html>
