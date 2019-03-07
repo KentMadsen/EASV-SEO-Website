@@ -46,6 +46,8 @@ $info-card-inactive-color:#F5F5F5;
 
       padding-left: 16px;
       padding-right: 16px;
+
+      text-transform: uppercase;
 }
 
 .infocard-source-button
@@ -64,7 +66,7 @@ $info-card-inactive-color:#F5F5F5;
 
       grid-template-columns: 1fr 1fr;
       grid-gap: 32px;
-      
+
 }
 
 .infocard-sb-container
@@ -79,14 +81,12 @@ $info-card-inactive-color:#F5F5F5;
 {
       transition-duration: $information-box-default-animation-time;
       margin-left: auto;
-      
-      
+
+
 
       height: 100%;
       width: 48px;
 }
-
-
 
 .infobox-icon-continue
 {
@@ -101,9 +101,9 @@ $info-card-inactive-color:#F5F5F5;
 {
       transition-duration: $information-box-default-animation-time;
       color:$info-card-active-color;
-      
+
       display: inline-block;
-      
+
       text-align: center;
 
       font-size: 16px;
@@ -112,7 +112,7 @@ $info-card-inactive-color:#F5F5F5;
       margin-bottom: 16px;
 
       font-weight: 600;
-}   
+}
 
 // Rules
 .infocard-sb-container:last-child
@@ -123,7 +123,7 @@ $info-card-inactive-color:#F5F5F5;
 .infocard-sb-container:first-child p
 {
       margin: 0px;
-      
+
       text-align: center;
       vertical-align: middle;
 
@@ -133,6 +133,11 @@ $info-card-inactive-color:#F5F5F5;
       text-transform: uppercase;
 }
 
+.info-card-area:hover .info-card .info-card-text
+{
+
+
+}
 
 .info-card-area:hover .info-card .infocard-source-button .infocard-sb-container:last-child .infocard-expandeble-container
 {
@@ -145,7 +150,7 @@ $info-card-inactive-color:#F5F5F5;
       transition-duration: $information-box-default-animation-time;
       background-color: $info-card-active-color;
 
-      width: 100%;     
+      width: 100%;
 }
 
 .info-card-area:hover .info-card .infocard-source-button .infocard-sb-container:last-child .infocard-expandeble-container i
@@ -192,7 +197,7 @@ $info-card-inactive-color:#F5F5F5;
 
       background-size: cover;
       background-repeat: no-repeat;
-      background-blend-mode: overlay; 
+      background-blend-mode: overlay;
 }
 
 //transition-duration: 200ms;

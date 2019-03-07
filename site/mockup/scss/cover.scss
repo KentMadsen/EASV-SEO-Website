@@ -12,15 +12,14 @@
 
 }
 
-
-.site-cover 
+.site-cover
 {
       background-color: $background-site-menu;
       background-size:cover;
-      
+
       width: 100%;
       height: 550px;
-      
+
 }
 
 .cover-element-container
@@ -33,35 +32,27 @@
 
       margin-top: 25px;
       padding: 0px;
-      
+
       font-family: 'open sans';
       width: 500px;
 
       color: white;
-      background-color: $highlight-menu-infobox;
+      background-color: rgba($main-menu-cover-color, 0.6);
 
       margin-left: 25px;
       margin-right: auto;
 }
 
-.website-title
-{
-      font-family: 'open sans';
-      margin: 0px;
-
-      padding-top: 8px;
-      padding-right: 16px;
-      padding-left: 16px;
-      padding-bottom: 4px;
-}
-
 .website-description
 {
-      margin: 0px;
-      
-      padding-top: 16px;
-      padding-left: 32px;
-      padding-right: 32px;
-      padding-bottom: 32px;
-      
+    font-family: 'open sans';
+
+    margin: 0px;
+
+    padding-top: 16px;
+    padding-bottom: 16px;
+
+    padding-left: 32px;
+    padding-right: 32px;
+
 }

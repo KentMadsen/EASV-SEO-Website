@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
       <head>
-            <?php 
+            <?php
                   include "./generic/meta.php";
             ?>
 
@@ -9,97 +9,104 @@
                   SEO - Home
             </title>
 
-            <?php 
+            <?php
                   include "./generic/libraries.php";
             ?>
       </head>
       <body>
-            <?php 
+            <?php
                   include './generic/header.php';
             ?>
 
             <main>
                   <!-- Welcome to the site -->
-                  <section> 
-                        <div class="page-boundary">  
-                              <div class="offset-container">      
-                                    <div class="site-cover-front attachable offset-to-header site-cover">   
-                                          <div class="cover-element-container"> 
-                                                <div class="cover-element"> 
-                                                      <h1 class="website-title"> 
-                                                            SEO | Kent vejrup Madsen
-                                                      </h1>
-                                                      <p class="website-description"> 
-                                                            SEO aka. Search Engine Optimisation is a set of techniques used with the intention
-                                                            to improve a sites visibility on the internet. There by gaining attention or sales.
-                                                            It's a tedious process, which require technical and business decisions.  
-                                                      </p>
+                  <section>
+                        <div class="page-boundary">
+                              <div class="offset-container">
+                                    <div class="site-cover-front attachable offset-to-header site-cover">
+                                          <div class="cover-element-container">
+                                                <div class="cover-element">
+                                                      <div>
+                                                          <p class="website-description">
+                                                                SEO ( aka. Search Engine Optimisation ) is a set of techniques used with the intention
+                                                                to improve a sites visibility on the internet. By making data accessible for search engines to parse and make available.
+                                                                There by gaining attention or sales, It's a tedious process, which require technical and business decisions.
+                                                          </p>
+                                                      </div>
                                                 </div>
-                                          </div>    
+                                          </div>
                                     </div>
                               </div>
                         </div>
+
+                        <h1>
+                          SEO
+                        </h1>
                   </section>
 
                   <!-- Short introduction -->
-                  <section> 
+                  <section>
                         <div class="page-boundary">
                               <p>
                                     Section 3
                               </p>
-                        </div>  
+                        </div>
                   </section>
 
                   <!-- Reason to use the optimisation techniques -->
-                  <section> 
-                        <div class="page-boundary site-introduction"> 
-                              <p class="document-title text-center"> 
-                                    Reasons to consider SEO optimising your site. 
+                  <section>
+                        <div class="page-boundary site-introduction">
+                              <p class="document-title text-center">
+                                    Reasons to consider SEO optimising your site.
                               </p>
 
-                              <div class="stacked-3-cards-full document-body"> 
-                                    <div class="containers"> 
-                                          <a class="info-card-area" 
+                              <p>
+                                Placeholder
+                              </p>
+
+                              <div class="stacked-3-cards-full document-body">
+                                    <div class="containers">
+                                          <a class="info-card-area"
                                              href="http://www.internetlivestats.com/google-search-statistics/">
-                                                <div class="info-card infobox-server infobox-border"> 
+                                                <div class="info-card infobox-server infobox-border">
                                                       <p class="info-card-text">
                                                             Google processes over 40.000 search quries every seconds.
-                                                      </p> 
-                                                      <div class="infocard-source-button"> 
-                                                            <div class="infocard-sb-container"> 
+                                                      </p>
+                                                      <div class="infocard-source-button">
+                                                            <div class="infocard-sb-container">
                                                                   <p>
                                                                         Source
                                                                   </p>
                                                             </div>
                                                             <div class="infocard-sb-container">
                                                                   <div class="infocard-expandeble-container">
-                                                                        <div class="infobox-icon-continue">   
+                                                                        <div class="infobox-icon-continue">
                                                                               <i class="fas fa-chevron-right">
                                                                               </i>
                                                                         </div>
                                                                   </div>
                                                             </div>
                                                       </div>
-                                                
+
                                                 </div>
                                           </a>
                                     </div>
-                                    <div class="containers">  
-                                          <a class="info-card-area" 
+                                    <div class="containers">
+                                          <a class="info-card-area"
                                              href="https://moz.com/blog/state-of-searcher-behavior-revealed">
-                                              <div class="info-card infobox-browser infobox-border"> 
-                                                      <p class="info-card-text"> 
+                                              <div class="info-card infobox-browser infobox-border">
+                                                      <p class="info-card-text">
                                                             The average google search session is below a minute.
                                                       </p>
-                                                      <div class="infocard-source-button">  
-                                                            <div class="infocard-sb-container"> 
+                                                      <div class="infocard-source-button">
+                                                            <div class="infocard-sb-container">
                                                                   <p>
                                                                         Source
                                                                   </p>
                                                             </div>
                                                             <div class="infocard-sb-container">
                                                                   <div class="infocard-expandeble-container">
-                                                                        <div class="infobox-icon-continue">   
+                                                                        <div class="infobox-icon-continue">
                                                                               <i class="fas fa-chevron-right">
                                                                               </i>
                                                                         </div>
@@ -110,22 +117,22 @@
                                           </a>
                                     </div>
 
-                                    <div class="containers"> 
-                                          <a class="info-card-area" 
+                                    <div class="containers">
+                                          <a class="info-card-area"
                                              href="https://www.statista.com/statistics/216573/worldwide-market-share-of-search-engines/">
-                                                <div class="info-card infobox-desktop infobox-border"> 
+                                                <div class="info-card infobox-desktop infobox-border">
                                                       <p class="info-card-text">
                                                             90% of searches made on desktop uses google.
                                                       </p>
-                                                      <div class="infocard-source-button"> 
-                                                            <div class="infocard-sb-container"> 
+                                                      <div class="infocard-source-button">
+                                                            <div class="infocard-sb-container">
                                                                   <p>
                                                                         Source
                                                                   </p>
                                                             </div>
                                                             <div class="infocard-sb-container">
                                                                   <div class="infocard-expandeble-container">
-                                                                        <div class="infobox-icon-continue">   
+                                                                        <div class="infobox-icon-continue">
                                                                               <i class="fas fa-chevron-right">
                                                                               </i>
                                                                         </div>
@@ -137,35 +144,43 @@
                                     </div>
 
                               </div>
+                        </div>
+                        <div>
+                          <!-- Read more -->
+                          <a href="#" hreflang="en">
+                            <div>
+                              Read more:
+                            </div>
+                          </a>
                         </div>
                   </section>
 
                   <!-- Themes -->
-                  <section> 
+                  <section>
                         <div class="page-boundary">
                                     Section 4
-                        </div>  
+                        </div>
                   </section>
 
                   <!-- -->
-                  <section> 
-                        <div class="page-boundary"> 
-                              <div class="offset-container"> 
-                                    <div class="site-cover attachable site-cover-end offset-to-footer"> 
+                  <section>
+                        <div class="page-boundary">
+                              <div class="offset-container">
+                                    <div class="site-cover attachable site-cover-end offset-to-footer">
 
                                     </div>
                               </div>
                         </div>
                   </section>
-                  
+
             </main>
 
-            <?php 
+            <?php
                   include './generic/footer.php';
             ?>
       </body>
 
-      <?php 
+      <?php
             include './generic/frameworks.php';
       ?>
 </html>
