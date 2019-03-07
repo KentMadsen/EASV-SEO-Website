@@ -1,20 +1,19 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
       <head>
-
             <title>
                   SEO - Home
             </title>
 
             <?php
-                  include "./generic/libraries.php";
+                  include "./generic/libraries.html";
             ?>
       </head>
-      <body>
-            <?php
-                  include './generic/header.php';
-            ?>
 
+      <body>
+            <?php include './generic/header.html'; ?>
+
+            <!-- Content Area  -->
             <main>
                   <!-- Welcome to the site -->
                   <section>
@@ -172,12 +171,11 @@
 
             </main>
 
-            <?php
-                  include './generic/footer.php';
-            ?>
+            <?php include './generic/footer.html'; ?>
       </body>
-
-      <?php
-            include './generic/frameworks.php';
+      <?php include './generic/frameworks.html';
+            include './generic/code.html';
       ?>
+
+      <!-- Content Area  -->
 </html>

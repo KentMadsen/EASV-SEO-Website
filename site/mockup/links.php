@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
       <head>
             <title>
                   SEO - Dictionary
@@ -10,20 +10,16 @@
             ?>
       </head>
       <body>
-            <?php
-                  include './generic/header.php';
-            ?>
+            <?php include './generic/header.php'; ?>
 
             <main>
 
             </main>
 
-            <?php
-                  include './generic/footer.php';
-            ?>
+            <?php include './generic/footer.php'; ?>
       </body>
-
-      <?php
-            include './generic/frameworks.php';
+      
+      <?php include './generic/frameworks.php';
+            include './generic/code.html';
       ?>
 </html>
