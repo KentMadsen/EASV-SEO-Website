@@ -18,29 +18,24 @@
                         <div class="page-boundary">
                               <div class="offset-container">
                                     <div class="site-cover-front attachable offset-to-header site-cover">
-                                      <!--
-                                          <div class="cover-element-container">
-                                                <div class="cover-element">
-                                                      <div>
-                                                      </div>
-                                                </div>
-                                          </div>
-                                        -->
+
                                     </div>
                               </div>
                         </div>
 
                         <!-- -->
                         <div class="page-boundary">
-                          <!-- -->
-                          <h1>
-                            SEO
-                          </h1>
+                          <div>
+                            <!-- -->
+                            <h1>
+                              SEO
+                            </h1>
 
-                          <!-- -->
-                          <p class="website-description">
-                              SEO ( aka. Search Engine Optimisation ) is a set of techniques used with the intention to improve a sites visibility on the internet. By making data accessible for search engines to parse and make available. There by gaining attention or sales, It's a tedious process, which require technical and business decisions.
-                          </p>
+                            <!-- -->
+                            <p class="website-description">
+                                SEO ( aka. Search Engine Optimisation ) is a set of techniques used with the intention to improve a sites visibility on the internet. By making data accessible for search engines to parse and make available. There by gaining attention or sales, It's a tedious process, which require technical and business decisions.
+                            </p>
+                          </div>
                         </div>
 
                 </section>
@@ -80,6 +75,7 @@
                                                                         Source
                                                                   </p>
                                                             </div>
+
                                                             <div class="infocard-sb-container">
                                                                   <div class="infocard-expandeble-container">
                                                                         <div class="infobox-icon-continue">
@@ -108,6 +104,7 @@
                                                                         Source
                                                                   </p>
                                                             </div>
+                                                            
                                                             <div class="infocard-sb-container">
                                                                   <div class="infocard-expandeble-container">
                                                                         <div class="infobox-icon-continue">
@@ -179,7 +176,6 @@
                               </div>
                         </div>
                   </section>
-
             </main>
 
             <?php include './generic/footer.html'; ?>
