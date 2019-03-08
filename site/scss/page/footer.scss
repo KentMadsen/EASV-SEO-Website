@@ -1,17 +1,110 @@
 .footer-cover
 {
+      padding-top: 32px;
+      padding-bottom: 32px;
+
       background-color: $main-menu-cover-color;
 }
 
 .footer-site-navigation
 {
-      
+      display: grid;
+      grid-template-columns: 1fr 1fr 1fr 1fr;
+      grid-gap: 8px;
 }
 
-.footer-miscellaneous
+.footer-site-navigation .menu-container ul li 
 {
-      text-transform: uppercase;
 
-      font-size: 12px;
+
+}
+
+.footer-miscellaneous-menu 
+{
       padding: 0px;
+      margin: 0px;
+
+      display: flex;
+      justify-content: center;   
+      
+      font-size: 11px;
+
+      font-family: 'open sans';
+      text-transform: uppercase;  
+}
+
+
+.footer-miscellaneous-menu ul
+{
+      margin: 0px;
+      padding: 0px;
+
+}
+
+.footer-miscellaneous-menu .menu
+{
+      display: flex;
+      flex-direction: row;
+      justify-content: center;
+      margin-top: 4px;
+      margin-bottom: 4px;
+}
+
+.footer-miscellaneous-menu-navigation
+{
+      list-style: none;
+      display: flex;
+
+      flex-direction: row;
+}
+
+.footer-miscellaneous-menu-navigation li 
+{
+      margin-left: 8px;
+      margin-right: 8px;
+}
+
+.footer-miscellaneous-menu-navigation li:first-child
+{
+      margin-left: 0px;
+      margin-right: 8px;
+}
+
+.footer-miscellaneous-menu-navigation li:last-child
+{
+      margin-left: 8px;
+      margin-right: 0px;
+}
+
+.footer-miscellaneous-watermark
+{
+      margin-left: 32px;
+      margin-right: 32px;
+}
+
+.footer-miscellaneous-menu-navigation li a
+{
+      text-decoration: none;
+
+}
+
+.footer-miscellaneous-menu .container
+{
+      display: block;
+      margin-right: 8px;
+      margin-left: 8px;
+}
+
+.footer-miscellaneous-menu p
+{
+      margin-top: 4px;
+      margin-bottom: 4px;
+}
+
+
+.footer-miscellaneous-menu div .menu li
+{
+      margin-left: 12px;
+      margin-right: 12px;
+
 }

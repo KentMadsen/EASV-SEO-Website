@@ -1,21 +1,38 @@
-.link
+.menu
+{
+      list-style: none;
+      margin: 0px;
+      padding: 0px;
+}
+
+.menu a 
 {
       text-decoration: none;
 }
 
+.menu-container
+{
+      
+}
+
+.link
+{
+      
+}
+
 .overlay-link
 {
-      color:$inactive-menu-overlay;
+      color: $inactive-menu-overlay;
 }
 
 .overlay-link:hover
 {
-      color:$highlight-menu;
+      color: $highlight-menu;
 }
 
 .overlay-link-light
 {
-      color:$inactive-menu;
+      color: $inactive-menu;
 }
 
 .overlay-link-light:hover
