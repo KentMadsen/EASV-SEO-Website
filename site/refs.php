@@ -2,7 +2,7 @@
 <html>
       <head>
             <title>
-                  SEO - About
+                  SEO - References and citations
             </title>
 
             <?php include "./generic/libraries.html"; ?>

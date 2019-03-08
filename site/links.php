@@ -2,7 +2,7 @@
 <html>
       <head>
             <title>
-                  SEO - Dictionary
+                  SEO - Links
             </title>
 
             <?php

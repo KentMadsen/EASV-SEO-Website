@@ -5,3 +5,27 @@
       padding-top: 32px;
       padding-bottom: 32px;
 }
+
+.header-site-navigation
+{
+      @extend %base-ul-horizontal-menu;
+
+}
+
+.header-site-navigation li 
+{
+      @extend %base-ul-element;
+
+}
+
+.header-main-navigation li
+{
+      @extend %base-ul-element;
+
+}
+
+.header-main-navigation
+{
+      @extend %base-ul-horizontal-menu;
+
+}

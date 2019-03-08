@@ -2,7 +2,7 @@
 <html>
       <head>
             <title>
-                  SEO - Dictionary
+                  SEO - Getting Started
             </title>
 
             <?php include "./generic/libraries.html"; ?>

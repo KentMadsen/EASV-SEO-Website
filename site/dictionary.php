@@ -12,7 +12,14 @@
             <?php include './generic/header.html'; ?>
 
             <main>
+                  <h1>  
+                        Dictionary 
+                  </h1>
+                  <section> 
+                        <div> 
 
+                        </div>
+                  </section>
             </main>
 
             <?php include './generic/footer.html'; ?>

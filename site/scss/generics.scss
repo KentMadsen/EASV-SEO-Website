@@ -1,5 +1,15 @@
 @import './generics/containers.scss';
 
+%base-ul-horizontal-menu
+{
+
+}
+
+%base-ul-element
+{
+      text-decoration: none;
+      font-family: 'open sans';   
+}
 
 .offset-to-header
 {

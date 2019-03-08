@@ -2,7 +2,7 @@
 <html>
       <head>
             <title>
-                  SEO - Dictionary
+                  SEO - Cookie privacy
             </title>
 
             <?php include "./generic/libraries.html"; ?>
