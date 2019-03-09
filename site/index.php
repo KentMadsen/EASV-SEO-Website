@@ -14,6 +14,76 @@
 
             <!-- Content Area  -->
             <main>
+                  <section> 
+                        <div id="interactive-frontpage" 
+                             class="offset-container"> 
+                              <div class="header-cover offset-to-header">
+                                    <canvas width="1902" height="550px"> 
+                                    </canvas>
+                              </div>
+                        </div>
+                        <div class="cover-background-main-menu"> 
+                              <ol class="frontpage-share-list"> 
+                                    <li> 
+                                          <a href="https://www.facebook.com/" 
+                                             class="site-link frontpage-share-list-button">
+                                                <div class="frontpage-share-list-button-icon">
+                                                      <i class="fab fa-facebook">      
+                                                      </i>
+                                                </div> 
+                                                <div class="frontpage-share-list-button-text"> 
+                                                      <p> 
+                                                            Facebook
+                                                      </p>
+                                                </div>
+                                          </a>
+                                    </li>
+
+                                    <li> 
+                                          <a href="https://www.linkedin.com" 
+                                             class="site-link frontpage-share-list-button"> 
+                                                <div class="frontpage-share-list-button-icon">
+                                                      <i class="fab fa-linkedin-in">
+                                                      </i>
+                                                </div>
+                                                <div class="frontpage-share-list-button-text"> 
+                                                      <p> 
+                                                            Linkedin
+                                                      </p>
+                                                </div>
+                                          </a>
+                                    </li>
+                                                            
+                                    <li> 
+                                          <a href="https://twitter.com/" 
+                                             class="site-link frontpage-share-list-button">
+                                                <div class="frontpage-share-list-button-icon">
+                                                      <i class="fab fa-twitter-square">
+                                                      </i> 
+                                                </div>
+                                                <div class="frontpage-share-list-button-text"> 
+                                                      <p> 
+                                                            Twitter
+                                                      </p>
+                                                </div>
+                                          </a>
+                                    </li>
+
+                                    <li>
+                                          <a href="https://github.com/KentMadsen/SEO-Website" 
+                                             class="site-link frontpage-share-list-button"> 
+                                                <div class="frontpage-share-list-button-icon">
+                                                      <i class="fab fa-github-square">
+                                                      </i>
+                                                </div>
+                                                <div class="frontpage-share-list-button-text"> 
+                                                      Github
+                                                </div>
+                                          </a>
+                                    </li>
+                              </ol>
+                        </div>
+                  </section>
                   <!-- Welcome to the site -->
                   <section>
                         

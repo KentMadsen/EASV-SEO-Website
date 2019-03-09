@@ -1,0 +1,59 @@
+#interactive-frontpage
+{
+      margin-top: 2px;
+      height: 550px;
+}
+
+.frontpage-share-list
+{
+      margin-top: 56px;
+
+      list-style: none;
+      
+      display: flex;
+      flex-direction: row;
+      justify-content: center;
+
+      width: 100%;
+}
+
+.frontpage-share-list-button div
+{
+      margin-right: 12px;
+      margin-left: 12px;
+
+}
+
+.frontpage-share-list li 
+{     
+      margin-right: 32px;
+      margin-left: 32px;
+}
+
+.frontpage-share-list a
+{
+      color: white;
+      text-decoration: none;
+      text-transform: uppercase;
+      font-family: 'open sans';
+
+      display: flex;
+}
+
+.frontpage-share-list-button-icon
+{
+      font-size: 18px;
+}
+
+.frontpage-share-list-button-text
+{
+      @extend .frontpage-share-list-button-icon;
+}
+
+#interactive-frontpage div
+{
+      position: absolute;
+
+      height: 550px;
+      width: 100%;
+}
