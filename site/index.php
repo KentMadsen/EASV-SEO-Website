@@ -1,8 +1,9 @@
 <!DOCTYPE html>
 <html>
       <head>
+            <meta />
             <title>
-                  SEO - Home
+                  Search Engine Optimisation - Application
             </title>
 
             <?php include "./generic/libraries.html"; ?>
@@ -15,13 +16,7 @@
             <main>
                   <!-- Welcome to the site -->
                   <section>
-                        <div class="page-boundary">
-                              <div class="offset-container">
-                                    <div class="site-cover-front attachable offset-to-header site-cover">
-
-                                    </div>
-                              </div>
-                        </div>
+                        
 
                         <!-- -->
                         <div class="page-boundary">
@@ -33,7 +28,7 @@
 
                             <!-- -->
                             <p class="website-description">
-                                SEO ( aka. Search Engine Optimisation ) is a set of techniques used with the intention to improve a sites visibility on the internet. By making data accessible for search engines to parse and make available. There by gaining attention or sales, It's a tedious process, which require technical and business decisions.
+                                Search Engine Optimisation (SEO.) is a set of techniques used with the intention to improve a sites visibility on the internet. By making data accessible for search engines to parse and make available. There by gaining attention or sales, It's a tedious process, which require technical and business decisions.
                             </p>
                           </div>
                         </div>
@@ -41,7 +36,7 @@
                 </section>
 
                   <!-- Short introduction -->
-                  <section>
+                  <section class="cover-background">
                         <div class="page-boundary">
                               <p>
                                     Section 3
@@ -50,7 +45,7 @@
                   </section>
 
                   <!-- Reason to use the optimisation techniques -->
-                  <section class="site-introduction">
+                  <section class="site-introduction cover-background-main-menu">
                         <div class="page-boundary">
                               <p class="document-title text-center">
                                 Reasons to consider SEO optimising your site.
@@ -147,22 +142,7 @@
                               </div>
 
                               <div>
-                                <!-- Read more -->
-                                <a href="#"
-                                   hreflang="en"
-                                   title="Read more about: ">
-                                  <div>
-                                    Read more:
-                                  </div>
-                                </a>
-                              </div>
-                        </div>
-                  </section>
 
-                  <!-- Themes -->
-                  <section>
-                        <div class="page-boundary">
-                                    Section 4
                         </div>
                   </section>
 
