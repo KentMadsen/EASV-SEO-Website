@@ -23,29 +23,20 @@
                           <div>
                             <!-- -->
                             <h1>
-                              SEO
+                                Search Engine Optimisation
                             </h1>
 
                             <!-- -->
                             <p class="website-description">
-                                Search Engine Optimisation (SEO.) is a set of techniques used with the intention to improve a sites visibility on the internet. By making data accessible for search engines to parse and make available. There by gaining attention or sales, It's a tedious process, which require technical and business decisions.
+                                Search engine optimisation (SEO.) is a set of techniques used with the intention to improve a sites visibility on the internet. By making data accessible for search engines to parse and make available. There by gaining attention or sales, It's a tedious process, which require technical and business decisions.
                             </p>
                           </div>
                         </div>
 
                 </section>
 
-                  <!-- Short introduction -->
-                  <section class="cover-background">
-                        <div class="page-boundary">
-                              <p>
-                                    Section 3
-                              </p>
-                        </div>
-                  </section>
-
-                  <!-- Reason to use the optimisation techniques -->
-                  <section class="site-introduction cover-background-main-menu">
+                <!-- Reason to use the optimisation techniques -->
+                <section class="site-introduction cover-background-main-menu">
                         <div class="page-boundary">
                               <p class="document-title text-center">
                                 Reasons to consider SEO optimising your site.
@@ -146,6 +137,24 @@
                         </div>
                   </section>
 
+                  <!-- Short introduction -->
+                  <section class="cover-background site-introduction">
+                        <div class="page-boundary">
+                              <p>
+                                    Section 3
+                              </p>
+                        </div>
+                  </section>
+
+                  <!-- Short introduction -->
+                  <section class="cover-background-main-menu site-introduction">
+                        <div class="page-boundary">
+                              <p>
+                                    Section 3
+                              </p>
+                        </div>
+                  </section>
+
                   <!-- -->
                   <section>
                         <div class="page-boundary">
@@ -160,6 +169,7 @@
 
             <?php include './generic/footer.html'; ?>
       </body>
+      
       <?php include './generic/frameworks.html';
             include './generic/code.html';
       ?>

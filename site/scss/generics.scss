@@ -2,17 +2,6 @@
 @import './generics/containers.scss';
 @import './generics/elements.scss';
 
-%base-ul-horizontal-menu
-{
-
-}
-
-%base-ul-element
-{
-      text-decoration: none;
-      font-family: 'open sans';   
-}
-
 .offset-to-header
 {
       top: $default-edge-offset;
@@ -37,21 +26,6 @@ section:first-child
 section:last-child
 {
       margin-bottom: 0px;
-}
-
-
-
-.document-body
-{
-      font-family: 'roboto';
-}
-
-.document-title
-{
-      font-family: 'Assistant';
-      font-size: 28px;
-
-      margin-bottom: 24px;
 }
 
 .text-center

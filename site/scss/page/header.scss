@@ -70,28 +70,48 @@
 }
 
 #header-main-home
-{      
+{    
       
-
-}
-
-#header-main-seo-in-practice
-{
 
 }
 
 #header-main-language
 {
       
+      
 
 }
 
-#header-main-search
+.header-menu-navigation-button
 {
 
 }
 
-#header-main-theme
+.header-menu-navigation-button .header-menu-navigation-button-area
+{
+      display: flex;
+      flex-direction: row;
+
+}
+
+.header-menu-navigation-button .header-menu-navigation-button-area div 
+{
+      margin-right: 8px;
+}
+
+.header-menu-navigation-button .header-menu-navigation-button-area div:last-child
+{
+      margin-right: 0px;
+}
+
+.header-menu-navigation-button-area-text
+{
+      text-transform: uppercase;
+      font-family: 'open sans';
+
+}
+
+.header-menu-navigation-button-area-icon
 {
 
 }
