@@ -18,7 +18,9 @@
                         <div id="interactive-frontpage" 
                              class="offset-container"> 
                               <div class="header-cover offset-to-header">
-                                    <canvas width="1902" height="550px"> 
+                                    <canvas id="interactive-frontpage-canvas" 
+                                            width="1900px" 
+                                            height="550px"> 
                                     </canvas>
                               </div>
                         </div>
@@ -40,7 +42,7 @@
                                     </li>
 
                                     <li> 
-                                          <a href="https://www.linkedin.com" 
+                                          <a href="https://www.linkedin.com/company/designermadsen" 
                                              class="site-link frontpage-share-list-button"> 
                                                 <div class="frontpage-share-list-button-icon">
                                                       <i class="fab fa-linkedin-in">
@@ -69,15 +71,17 @@
                                           </a>
                                     </li>
 
-                                    <li>
+                                    <li> 
                                           <a href="https://github.com/KentMadsen/SEO-Website" 
-                                             class="site-link frontpage-share-list-button"> 
+                                             class="site-link frontpage-share-list-button">
                                                 <div class="frontpage-share-list-button-icon">
                                                       <i class="fab fa-github-square">
-                                                      </i>
+                                                      </i> 
                                                 </div>
                                                 <div class="frontpage-share-list-button-text"> 
-                                                      Github
+                                                      <p> 
+                                                            Github
+                                                      </p>
                                                 </div>
                                           </a>
                                     </li>
@@ -129,7 +133,11 @@
       
       <?php include './generic/frameworks.html';
             include './generic/code.html';
+            include './generic/repository.html';
       ?>
 
       <!-- Content Area  -->
+      <script type=""> 
+            initialise_front();
+      </script>
 </html>

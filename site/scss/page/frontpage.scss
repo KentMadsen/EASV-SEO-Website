@@ -6,35 +6,53 @@
 
 .frontpage-share-list
 {
-      margin-top: 56px;
+      margin: 0px;
+      padding: 0px;
+
+      margin-top: 34px;
+
+      padding-top: 16px;
+      padding-bottom: 16px;
 
       list-style: none;
       
       display: flex;
+      
       flex-direction: row;
       justify-content: center;
 
       width: 100%;
 }
 
-.frontpage-share-list-button div
+.frontpage-share-list p 
 {
-      margin-right: 12px;
-      margin-left: 12px;
-
+      margin: 0px;
+      padding: 0px;
 }
+
+
 
 .frontpage-share-list li 
 {     
-      margin-right: 32px;
-      margin-left: 32px;
+      margin-right: 18px;
+      margin-left: 18px;
+
+      border-radius: 2px;
+}
+
+.frontpage-share-list li:hover
+{
+      border-radius: 2px;
+
 }
 
 .frontpage-share-list a
 {
       color: white;
+
       text-decoration: none;
       text-transform: uppercase;
+
       font-family: 'open sans';
 
       display: flex;
@@ -42,12 +60,85 @@
 
 .frontpage-share-list-button-icon
 {
-      font-size: 18px;
+      width: 50px;      
+      color:rgba($color: $background-site-menu, $alpha: 1.0);
+      background-color: white;
+
+      padding-top: 4px;
+      padding-bottom: 4px;
+
+      font-size: 20px;
+}
+
+.frontpage-share-list-button-icon i 
+{
+      text-align: center;
+      font-size: 20px;
+
+      width: 100%;
 }
 
 .frontpage-share-list-button-text
 {
-      @extend .frontpage-share-list-button-icon;
+      
+      transition-duration: 450ms;
+      font-size: 20px;
+
+      padding-top: 4px;
+      padding-bottom: 4px;
+      
+      margin-right: 8px;
+      margin-left: 8px;
+
+      width: 25px;
+
+      position: relative;
+}
+
+.frontpage-share-list-button-text p 
+{
+      transition-duration: 450ms;
+      color: rgba(white, $alpha:0.0);
+      text-align: center;
+      width: 100%;
+}
+
+
+.frontpage-share-list-button .frontpage-share-list-button-text p
+{
+      -ms-transform: translate(-75px, 0px); /* IE 9 */
+      -webkit-transform: translate(-75px, 0px); /* Safari */
+      transform: translate(-75px, 0px);
+}
+
+.frontpage-share-list-button:hover .frontpage-share-list-button-text
+{
+      transition-duration: 450ms;
+      width: 125px;
+}
+
+.frontpage-share-list-button:hover .frontpage-share-list-button-text p
+{
+      transition-duration: 450ms;
+      color: rgba(white, $alpha:1.0);
+
+      -ms-transform: translate(0px, 0px); /* IE 9 */
+      -webkit-transform: translate(0px, 0px); /* Safari */
+      transform: translate(0px, 0px);
+}
+
+.frontpage-share-list-button
+{
+      
+      border-left:1px solid white;
+      border-top:1px solid white;
+      border-right:1px solid white;
+      border-bottom:1px solid white;
+}
+
+.frontpage-share-list-button:active
+{
+      
 }
 
 #interactive-frontpage div
@@ -56,4 +147,9 @@
 
       height: 550px;
       width: 100%;
+}
+
+#interactive-frontpage-canvas
+{
+      
 }
