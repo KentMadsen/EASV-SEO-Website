@@ -14,7 +14,7 @@
                   content=" "/>
 
             <meta name="keywords" 
-                  content="Search Engine Optimization, SEO, Backend, Frontend, Crawler, indexed"/>
+                  content="Search Engine Optimization, SEO, Backend, Frontend, Crawler, indexed, pagerabj"/>
 
             <meta name="robots" 
                   content="index, follow"/>
@@ -27,7 +27,7 @@
 
             <!-- https://www.wordstream.com/blog/ws/2015/04/30/seo-basics -->
             <title>
-                  Search Engine Optimisation - Improve your pagerank, to increase the likelyhood of gaining customers attention.
+                  SEO - Improving pagerank, t0 gain more customers attention.
             </title>
 
             <?php include "./generic/libraries.html"; ?>
