@@ -1,18 +1,33 @@
 <!DOCTYPE html>
-<html>
+<html >
       <head>      
             <meta charset="UTF-8">
-            <meta name="viewport" content="width=device-width, initial-scale=1.0">
-            <meta http-equiv="X-UA-Compatible" content="ie=edge">
-            <meta name="description" content=" "/>
-            <meta name="keywords" content="Search Engine Optimization, SEO, Backend, Frontend"/>
-            <meta name="robots" content="index, follow"/>
-            <meta name="author" content="Kent Madsen"/>
-            <meta name="msvalidate.01" content="A61A16D254E6847F3E8AEAF2A3B37922" />
+
+            <meta name="viewport" 
+                  content="width=device-width, initial-scale=1.0">
+            
+            <meta http-equiv="X-UA-Compatible" 
+                  content="ie=edge">
+
+            <!-- -->
+            <meta name="description" 
+                  content=" "/>
+
+            <meta name="keywords" 
+                  content="Search Engine Optimization, SEO, Backend, Frontend, Crawler, indexed"/>
+
+            <meta name="robots" 
+                  content="index, follow"/>
+
+            <meta name="author" 
+                  content="Kent Madsen"/>
+            
+            <meta name="msvalidate.01" 
+                  content="A61A16D254E6847F3E8AEAF2A3B37922" />
 
             <!-- https://www.wordstream.com/blog/ws/2015/04/30/seo-basics -->
             <title>
-                  Search Engine Optimisation - 
+                  Search Engine Optimisation - Improvement of pagerank, to increase your likelyhood of gaining customers attention.
             </title>
 
             <?php include "./generic/libraries.html"; ?>
