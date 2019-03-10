@@ -17,17 +17,6 @@
             <!-- Content Area  -->
             <main>
                   <section>
-                    <!--
-                        <div id="interactive-frontpage"
-                             class="offset-container">
-
-                              <div class="header-cover offset-to-header">
-                                    <canvas id="interactive-frontpage-canvas"
-                                            width="1900px"
-                                            height="550px">
-                                    </canvas>
-                              </div>
-                        </div>-->
                         <div class="cover-background-main-menu">
                               <ol class="frontpage-share-list">
                                     <li>
@@ -138,8 +127,7 @@
       </body>
 
       <?php include './generic/frameworks.html';
-            include './generic/code.html';
-            include './generic/repository.html';
+            include './generic/code.html';;
       ?>
 
       <!-- Content Area  -->
