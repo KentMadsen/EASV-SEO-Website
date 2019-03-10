@@ -1,0 +1,188 @@
+{
+      "1":
+      {
+            "origin": "techterms.com",
+            "links": ["https://techterms.com/definition/seo"]
+      },
+      "2":
+      {
+            "origin": "www.rankpay.com",
+            "links": ["https://www.rankpay.com/on-page-seo/"]
+      },
+      "3":
+      {
+            "origin": "en.wikipedia.org",
+            "links": ["https://en.wikipedia.org/wiki/Search_engine_optimization"]
+      },
+      "4":
+      {
+            "origin": "blog.alexa.com",
+            "links": ["https://blog.alexa.com/on-page-optimization-in-seo/"]
+      },
+      "5":
+      {
+            "origin": "www.seomechanic.com",
+            "links": ["https://www.seomechanic.com/search-engine-optimization/"]
+      },
+      "6":
+      {
+            "origin": "www.optimizely.com",
+            "links": ["https://www.optimizely.com/optimization-glossary/search-engine-optimization/"]
+      },
+      "7":
+      {
+            "origin": "computer.howstuffworks.com",
+            "links": ["https://computer.howstuffworks.com/search-engine-optimization.htm"]
+      },
+      "8":
+      {
+            "origin": "searchenginewatch.com",
+            "links": ["https://searchenginewatch.com/2018/04/04/a-quick-and-easy-guide-to-meta-tags-in-seo/", 
+                      "https://searchenginewatch.com/sew/how-to/2067564/how-to-use-html-meta-tags"]
+      },
+      "9":
+      {
+            "origin": "hm-marketing.dk",
+            "links": ["https://hm-marketing.dk/hvad-er-seo-optimering/"]
+      },
+      "10":
+      {
+            "origin": "www.wordstream.com",
+            "links": ["https://www.wordstream.com/blog/ws/2019/02/07/google-search-statistics"]
+      },
+      "11":
+      {
+            "origin": "www.wordtracker.com",
+            "links": ["https://www.wordtracker.com/academy/seo/page-optimization/how-to-optimize-web-page"]
+      },
+      "12":
+      {
+            "origin": "www.entrepreneur.com",
+            "links": ["https://www.entrepreneur.com/article/231235"]
+      },
+      "13":
+      {
+            "origin": "www.mtu.edu",
+            "links": ["https://www.mtu.edu/umc/services/digital/seo/"]
+      },
+      "14":
+      {
+            "origin": "www.investisdigital.com",
+            "links": ["https://www.investisdigital.com/services/seo"]
+      },
+      "15":
+      {
+            "origin": "www.searchmetrics.com",
+            "links": ["https://www.searchmetrics.com/glossary/on-page-optimization/"]
+      },
+      "16":
+      {
+            "origin": "www.theukdomain.uk",
+            "links": ["https://www.theukdomain.uk/get-online/top-seo-tips-new-websites/"]
+      },
+      "17":
+      {
+            "origin": "www.geeksforgeeks.org",
+            "links": ["https://www.geeksforgeeks.org/search-engine-optimization-seo-basics/"]
+      },
+      "18":
+      {
+            "origin": "www.tutorialspoint.com",
+            "links": ["https://www.tutorialspoint.com/seo/mobile-seo-techniques.htm"]
+      },
+      "19":
+      {
+            "origin": "www.investopedia.com",
+            "links": ["https://www.investopedia.com/terms/s/seo-search-engine-optimization.asp"]
+      },
+      "20":
+      {
+            "origin": "www.drupal.org",
+            "links": ["https://www.drupal.org/node/1158446"]
+      },
+      "21":
+      {
+            "origin": "www.smartinsights.com",
+            "links": ["https://www.smartinsights.com/search-engine-optimisation-seo/"]
+      },
+      "22":
+      {
+            "origin": "www.techopedia.com",
+            "links": ["https://www.techopedia.com/definition/5184/organic-search-engine-optimization-organic-seo"]
+      },
+      "23":
+      {
+            "origin": "www.bourncreative.com",
+            "links": ["https://www.bourncreative.com/optimize-links-improved-seo/"]
+      },
+      "24":
+      {
+            "origin": "www.searchenginejournal.com",
+            "links": ["https://www.searchenginejournal.com/local-seo/"]
+      },
+      "25":
+      {
+            "origin": "whatis.techtarget.com",
+            "links": ["https://whatis.techtarget.com/definition/search-engine-optimization-SEO"]
+      },
+      "26":
+      {
+            "origin": "towardsdatascience.com",
+            "links": ["https://towardsdatascience.com/search-engine-optimization-for-dummies-22f0172e6d0e"]
+      },
+      "27":
+      {
+            "origin": "help.one.com",
+            "links": ["https://help.one.com/hc/en-us/sections/115001491669-Search-engine-optimization-SEO-"]
+      },
+      "28":
+      {
+            "origin": "buffer.com",
+            "links": ["https://buffer.com/resources/beginners-guide-to-seo"]
+      },
+      "29":
+      {
+            "origin": "www.businessinsider.com",
+            "links": ["https://www.businessinsider.com/10-basic-seo-tips-everyone-should-know-2010-1?r=US&IR=T&IR=T"]
+      },
+      "30":
+      {
+            "origin": "www.brand-design.dk",
+            "links": ["https://www.brand-design.dk/seo/"]
+      },
+      "31":
+      {
+            "origin": "unamo.com",
+            "links": ["https://unamo.com/blog/seo/35-tips-that-make-seo-work-for-your-website"]
+      },
+      "32":
+      {
+            "origin": "blog.monitorbacklinks.com",
+            "links": ["https://blog.monitorbacklinks.com/seo/search-engine-optimization-tips/"]
+      },
+      "33":
+      {
+            "origin": "mailchimp.com",
+            "links": ["https://mailchimp.com/resources/what-is-seo/"]
+      },
+      "34":
+      {
+            "origin": "www.titangrowth.com",
+            "links": ["https://www.titangrowth.com/top-5-benefits-of-seo/"]
+      },
+      "35":
+      {
+            "origin": "www.keaneleads.com",
+            "links": ["https://www.keaneleads.com/seo-optimisation"]
+      },
+      "36":
+      {
+            "origin": "woocommerce.com",
+            "links": ["https://woocommerce.com/posts/practical-guide-seo-store-owners/#"]
+      },
+      "37":
+      {
+            "origin": "www.business.gov.au",
+            "links": ["https://www.business.gov.au/marketing/websites/improve-your-search-ranking"]
+      } 
+}

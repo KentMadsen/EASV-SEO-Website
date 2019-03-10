@@ -1,5 +1,6 @@
+@import './generics/template.scss';
 @import './generics/containers.scss';
-
+@import './generics/elements.scss';
 
 .offset-to-header
 {
@@ -27,21 +28,6 @@ section:last-child
       margin-bottom: 0px;
 }
 
-
-
-.document-body
-{
-      font-family: 'roboto';
-}
-
-.document-title
-{
-      font-family: 'Assistant';
-      font-size: 28px;
-
-      margin-bottom: 24px;
-}
-
 .text-center
 {
       text-align: center;
@@ -49,6 +35,8 @@ section:last-child
 
 .site-introduction
 {
+      padding-top: 32px;
+      padding-bottom: 32px;
 
 }
 
@@ -68,4 +56,9 @@ section:last-child
 .attachable
 {
       position: absolute;
+}
+
+.site-link
+{
+      
 }
