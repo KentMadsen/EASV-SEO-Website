@@ -39,3 +39,16 @@
 {
       color: $highlight-menu;
 }
+
+.link-footer-vertical-3-divider-menu
+{
+      display: grid;
+      grid-template-columns: 1fr 1fr 1fr;
+      grid-gap: 8px;
+}
+
+.link-footer-vertical-3-divider-menu a
+{
+      color: white;
+
+}
