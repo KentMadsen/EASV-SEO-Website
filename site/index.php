@@ -126,20 +126,26 @@
 
                 </section>
 
-                  <!-- Short introduction -->
+                  <!-- Crawling links -->
                   <section class="cover-background site-introduction">
                         <div class="page-boundary">
+                              <h1> 
+                                    Link relations
+                              </h1>
                               <p>
-                                    Section 3
+                                    
                               </p>
                         </div>
                   </section>
 
-                  <!-- Short introduction -->
+                  <!--  -->
                   <section class="cover-background-main-menu site-introduction">
                         <div class="page-boundary">
+                              <h1>
+                                    Structured information
+                              </h1>
                               <p>
-                                    Section 3
+                                    
                               </p>
                         </div>
                   </section>
