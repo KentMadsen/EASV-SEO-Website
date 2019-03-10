@@ -27,7 +27,7 @@
 
             <!-- https://www.wordstream.com/blog/ws/2015/04/30/seo-basics -->
             <title>
-                  Search Engine Optimisation - Improve pagerank to increase your likelyhood for customers
+                  Search Engine Optimisation - Improvemwnr of pagerank, to increase your likelyhood of gaining customers attention.
             </title>
 
             <?php include "./generic/libraries.html"; ?>
