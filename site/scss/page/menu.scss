@@ -1,38 +1,54 @@
-.link
+.menu
+{
+      list-style: none;
+      margin: 0px;
+      padding: 0px;
+}
+
+.menu a 
 {
       text-decoration: none;
 }
 
-.site-menu
+.menu-container
 {
-      text-transform: uppercase;
-      font-family: 'Assistant';
+      
 }
 
-.site-nav
+.link
 {
-      margin-top: 8px;
-      margin-bottom: 8px;
       
-      font-size: 12px;
 }
 
 .overlay-link
 {
-      color:$inactive-menu-overlay;
+      color: $inactive-menu-overlay;
 }
 
 .overlay-link:hover
 {
-      color:$highlight-menu;
+      color: $highlight-menu;
 }
 
 .overlay-link-light
 {
-      color:$inactive-menu;
+      color: $inactive-menu;
 }
 
 .overlay-link-light:hover
 {
       color: $highlight-menu;
+}
+
+.link-footer-vertical-3-divider-menu
+{
+      display: grid;
+      grid-template-columns: 1fr 1fr 1fr;
+      grid-gap: 8px;
+}
+
+.link-footer-vertical-3-divider-menu a
+{
+      color: white;
+
 }
