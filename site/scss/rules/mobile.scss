@@ -1,2 +1,12 @@
 /* 
 */
+
+@media only screen and (max-width: 768px) {
+      .link-footer-vertical-3-divider-menu
+      {
+            display: grid;
+            grid-template-columns: 1fr !important;
+            grid-template-rows: 1fr 1fr 1fr !important;
+            grid-gap: 8px;
+      }
+}
