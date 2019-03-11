@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html >
+<html lang="en">
       <head>      
             <meta charset="UTF-8">
 
@@ -11,7 +11,7 @@
 
             <!-- -->
             <meta name="description" 
-                  content="School assignment about seo. "/>
+                  content="School assignment about seo. having to write about what SEO is, how it's used and why its important"/>
 
             <meta name="keywords" 
                   content="Search Engine Optimization, SEO, Backend, Frontend, Crawler, index"/>
@@ -75,7 +75,8 @@
                                     
                                     <li>
                                           <a href="https://www.linkedin.com/company/designermadsen"
-                                             class="site-link frontpage-share-list-button">
+                                             class="site-link frontpage-share-list-button"
+                                             title="Linkin Profile">
                                                 <div class="frontpage-share-list-button-icon">
                                                       <i class="fab fa-linkedin-in">
                                                       </i>
@@ -90,7 +91,8 @@
 
                                     <li>
                                           <a href="https://github.com/KentMadsen/SEO-Website"
-                                             class="site-link frontpage-share-list-button">
+                                             class="site-link frontpage-share-list-button" 
+                                             title="Website Source Code">
                                                 <div class="frontpage-share-list-button-icon">
                                                       <i class="fab fa-github-square">
                                                       </i>
