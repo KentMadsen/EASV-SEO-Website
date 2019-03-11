@@ -11,10 +11,10 @@
 
             <!-- -->
             <meta name="description" 
-                  content="School assignment. "/>
+                  content="School assignment about seo. "/>
 
             <meta name="keywords" 
-                  content="Search Engine Optimization, SEO, Backend, Frontend, Crawler, indexed, pagerabj"/>
+                  content="Search Engine Optimization, SEO, Backend, Frontend, Crawler, index"/>
 
             <meta name="robots" 
                   content="index, follow"/>
@@ -27,7 +27,7 @@
 
             <!-- https://www.wordstream.com/blog/ws/2015/04/30/seo-basics -->
             <title>
-                  SEO - Improving pagerank, t0 gain more customers attention.
+                  SEO - Improving pagerank, to gain more customers attention.
             </title>
 
             <?php include "./generic/libraries.html"; ?>
@@ -41,6 +41,7 @@
                   <section>
                         <div class="cover-background-main-menu">
                               <ol class="frontpage-share-list">
+                                    <!--
                                     <li>
                                           <a href="https://www.facebook.com/"
                                              class="site-link frontpage-share-list-button">
@@ -69,7 +70,7 @@
                                                       </p>
                                                 </div>
                                           </a>
-                                    </li>
+                                    </li> -->
 
                                     
                                     <li>
