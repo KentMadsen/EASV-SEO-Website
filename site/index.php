@@ -150,7 +150,7 @@
                               </p>
                               <p class="website-description">
                                     Considering that most traffic go though search engines like google it's a way to make the 
-                                    website more easy available.
+                                    website more easy accessible.
                               </p>
                         </div>
 
