@@ -11,7 +11,7 @@
 
             <!-- -->
             <meta name="description" 
-                  content=" "/>
+                  content="School assignment. "/>
 
             <meta name="keywords" 
                   content="Search Engine Optimization, SEO, Backend, Frontend, Crawler, indexed, pagerabj"/>
@@ -111,11 +111,11 @@
                         <div class="page-boundary">
                           <div>
                             <!-- -->
-                            <h1>
+                            <h1 class="website-title">
                                 Search Engine Optimisation
                             </h1>
 
-                            <h2> 
+                            <h2 class="website-title"> 
                                   What is SEO. 
                             </h2>
                             <!-- https://www.interaction-design.org/literature/topics/search-engine-optimization -->
@@ -128,7 +128,7 @@
                                 But is usefull for futurer use;
                             </p>
 
-                            <h2> 
+                            <h2 class="website-title"> 
                                   How it's used  
                             </h2>
                             <!-- -->
@@ -139,31 +139,22 @@
                           </div>
                         </div>
 
+                        <div class="page-boundary">
+                              <h1 class="website-title">
+                                    Why it's important
+                              </h1>
+                              <p class="website-description">
+                                    By using search engine optimisation, it'll make it easier to categorised a websites pages.
+                                    When people go to a search engine like google, the pages will rank higher, if the content
+                                    is a solution or closely related to the users query. 
+                              </p>
+                              <p class="website-description">
+                                    Considering that most traffic go though search engines like google it's a way to make the 
+                                    website more easy available.
+                              </p>
+                        </div>
+
                 </section>
-
-                  <!-- Crawling links -->
-                  <section class="cover-background site-introduction">
-                        <div class="page-boundary">
-                              <h1> 
-                                    Link relations
-                              </h1>
-                              <p>
-                                    
-                              </p>
-                        </div>
-                  </section>
-
-                  <!--  -->
-                  <section class="cover-background-main-menu site-introduction">
-                        <div class="page-boundary">
-                              <h1>
-                                    Structured information
-                              </h1>
-                              <p>
-                                    
-                              </p>
-                        </div>
-                  </section>
 
             </main>
 
@@ -171,7 +162,7 @@
       </body>
 
       <?php include './generic/frameworks.html';
-            include './generic/code.html';;
+            include './generic/code.html';
       ?>
 
       <!-- Content Area  -->
